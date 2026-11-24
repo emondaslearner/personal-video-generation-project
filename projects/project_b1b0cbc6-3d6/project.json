@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "2.0",
+  "project": {
+    "id": "project_b1b0cbc6-3d6",
+    "title": "The Light That Never Left",
+    "description": "A cinematic short story about a lighthouse keeper who risks everything to guide a lost fishing boat home during a violent storm.",
+    "aspectRatio": "9:16",
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "createdAt": "2026-11-22T05:27:48.387Z",
+    "updatedAt": "2026-11-23T08:53:06.215Z"
+  },
+  "story": {
+    "originalText": "",
+    "currentText": "",
+    "language": "en",
+    "targetDurationSeconds": 60,
+    "revisions": []
+  },
+  "production": {
+    "visualStyle": {},
+    "characterProfiles": [],
+    "narrationProfile": {},
+    "musicProfile": {},
+    "globalInstructions": ""
+  },
+  "scenes": [],
+  "assets": {
+    "images": [
+      "frames/2916481d-1e5a-4a2a-b066-831e3b41a027.png",
+      "frames/0ed76864-2841-4223-b375-8abf73f79c55.png"
+    ],
+    "audio": [],
+    "music": [],
+    "soundEffects": []
+  },
+  "settings": {},
+  "validation": {
+    "status": "pending",
+    "issues": []
+  },
+  "productionIntake": {
+    "originalSubmission": {
+      "schemaVersion": "2.1-package",
+      "projectInfo": {
+        "title": "The Light That Never Left",
+        "description": "A cinematic short story about a lighthouse keeper who risks everything to guide a lost fishing boat home during a violent storm.",
+        "aspectRatio": "9:16",
+        "targetDurationSeconds": 60,
+        "language": "en"
+      },
+      "visualStyle": {
+        "overallStyle": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting",
+        "colorPalette": "Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange",
+        "lighting": "Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene.",
+        "cameraLanguage": "Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video",
+        "negativePrompt": "blurry, low quality, low resolution, deformed anatomy, extra fingers, extra limbs, distorted face, inconsistent character appearance, duplicate people, cartoon, illustration, oversaturated colors, text, subtitles, watermark, logo",
+        "referenceNotes": "Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions.",
+        "additionalNotes": "Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame."
+      },
+      "characterProfiles": [
+        {
+          "id": "char_01",
+          "name": "Mira",
+          "appearance": "A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions.",
+          "clothing": "A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots.",
+          "distinguishingFeatures": "A small silver pendant necklace and a distinctive mustard-yellow scarf.",
+          "consistencyNotes": "Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged."
+        }
+      ],
+      "narrationProfile": {
+        "defaultVoice": "af_bella",
+        "defaultSpeed": 1,
+        "defaultEmotion": "calm",
+        "language": "en",
+        "globalInstructions": "Use natural, cinematic storytelling narration. Begin gently and create suspense as the storm intensifies. Increase emotional intensity during the lighthouse rescue. End warmly and peacefully. Speak clearly with natural pauses. Avoid exaggerated acting."
+      },
+      "musicProfile": {
+        "style": "Cinematic orchestral ambient soundtrack",
+        "mood": "Mysterious and emotional at the beginning, tense during the storm, hopeful and uplifting at the ending",
+        "intensity": "medium",
+        "soundDesignNotes": "Begin with soft atmospheric piano and distant ocean ambience. Gradually introduce low cinematic strings and subtle percussion during the storm. Build emotional tension as Mira climbs the lighthouse. Add a warm orchestral rise when the lighthouse turns on. End with gentle piano and peaceful ocean ambience. Keep music below narration volume."
+      },
+      "globalInstructions": "This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying.",
+      "scenes": [
+        {
+          "number": 1,
+          "id": "scene_01_9de36f9d",
+          "title": "The Quiet Lighthouse",
+          "originalNarration": "At the edge of a forgotten coastal village stood an old lighthouse, watched over by a young keeper named Mira.",
+          "productionNarration": "At the edge of a forgotten coastal village stood an old lighthouse, watched over by a young keeper named Mira.",
+          "emotion": "peaceful, reflective",
+          "visualPrompt": "A cinematic photorealistic establishing shot of an isolated old lighthouse standing on a rocky coastline beside a small sleeping fishing village at dusk. The ocean stretches into the distance beneath heavy storm clouds. Mira, a 28-year-old woman with long dark brown hair in a low ponytail, wearing a navy waterproof jacket and mustard-yellow scarf, stands near the lighthouse entrance looking toward the sea. Deep blue atmosphere, subtle warm window lights, realistic ocean and rock textures, dramatic cinematic composition, vertical 9:16 framing.",
+          "negativePrompt": "bright sunny weather, modern city, futuristic lighthouse, cartoon, illustration, inconsistent character appearance, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Establish the location, atmosphere, lighthouse, and main character. Slow cinematic push-in."
+        },
+        {
+          "number": 2,
+          "id": "scene_02_e808454d",
+          "title": "The Light Goes Out",
+          "originalNarration": "One terrible night, a violent storm arrived. Thunder shook the coast, and suddenly, the lighthouse went dark.",
+          "productionNarration": "One terrible night, a violent storm arrived. Thunder shook the coast, and suddenly, the lighthouse went dark.",
+          "emotion": "tense, alarming",
+          "visualPrompt": "A dramatic cinematic view of the same old coastal lighthouse during a violent nighttime storm. Huge dark ocean waves crash against the rocks, heavy rain sweeps across the scene, and lightning illuminates thick storm clouds. The lighthouse lantern room is completely dark, with no beam visible. Mira, wearing her consistent navy jacket and mustard-yellow scarf, looks up in alarm near the lighthouse entrance. Deep navy and cold slate-blue color palette, realistic rain and water, dramatic lightning, vertical 9:16 composition.",
+          "negativePrompt": "sunny sky, calm sea, glowing lighthouse beam, different lighthouse design, cartoon, blurry image, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Create a sudden change in atmosphere. Use a wide dramatic composition and emphasize the darkness."
+        },
+        {
+          "number": 3,
+          "id": "scene_03_f0b0e03f",
+          "title": "A Boat in the Darkness",
+          "originalNarration": "Far beyond the waves, Mira noticed a tiny fishing boat struggling against the storm, unable to find the shore.",
+          "productionNarration": "Far beyond the waves, Mira noticed a tiny fishing boat struggling against the storm, unable to find the shore.",
+          "emotion": "worried, urgent",
+          "visualPrompt": "A cinematic over-the-shoulder shot from behind Mira as she looks through a rain-covered lighthouse window toward a dangerous dark ocean. Far away, a tiny fishing boat struggles among enormous waves, barely visible through the rain. Mira's dark brown hair is tied in a low ponytail, and her mustard-yellow scarf is clearly visible over her navy jacket. A faint lightning flash reveals the distant boat. Strong sense of distance, danger, realistic storm atmosphere, dramatic lighting, vertical 9:16 framing.",
+          "negativePrompt": "multiple boats, large cruise ship, calm water, daylight, inconsistent character clothing, cartoon, text, watermark",
+          "durationHintSeconds": 7,
+          "notes": "Reveal the danger. Keep the fishing boat small and distant to emphasize the scale of the storm."
+        },
+        {
+          "number": 4,
+          "id": "scene_04_97bfa9e3",
+          "title": "The Decision",
+          "originalNarration": "She grabbed an emergency lantern and ran toward the tower. There was no time to wait for help.",
+          "productionNarration": "She grabbed an emergency lantern and ran toward the tower. There was no time to wait for help.",
+          "emotion": "determined, courageous",
+          "visualPrompt": "A cinematic medium shot of Mira urgently grabbing an old brass emergency lantern inside the lighthouse entrance. She has a determined expression, dark brown eyes, long dark brown hair tied in a low ponytail, navy waterproof jacket, mustard-yellow scarf, and silver pendant. The lantern produces a warm golden glow against the cold blue darkness. Rainwater is visible on her clothing. Old stone walls and wooden lighthouse stairs are visible behind her. Photorealistic cinematic lighting, emotional storytelling, vertical 9:16 framing.",
+          "negativePrompt": "modern flashlight, different character, different scarf color, smiling, clean dry clothing, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Show Mira's determination through her facial expression and body language. Warm lantern light contrasts with the cold environment."
+        },
+        {
+          "number": 5,
+          "id": "scene_05_49dbdff5",
+          "title": "The Climb",
+          "originalNarration": "Step by step, she climbed the narrow spiral staircase, fighting the wind and darkness with every breath.",
+          "productionNarration": "Step by step, she climbed the narrow spiral staircase, fighting the wind and darkness with every breath.",
+          "emotion": "struggling, suspenseful",
+          "visualPrompt": "A cinematic low-angle view inside a narrow ancient lighthouse spiral staircase. Mira climbs upward while holding a glowing brass lantern. Her navy waterproof jacket and mustard-yellow scarf remain consistent, and her dark brown hair is tied in a low ponytail. Her face shows exhaustion and determination. The circular stone walls and iron railing disappear into darkness above. Warm lantern light creates dramatic shadows across the old stone steps. Realistic architectural details, cinematic suspense, vertical 9:16 composition.",
+          "negativePrompt": "wooden modern staircase, elevator, multiple characters, inconsistent clothing, bright daylight, cartoon, distorted anatomy, text, watermark",
+          "durationHintSeconds": 7,
+          "notes": "Use a low-angle composition to communicate the difficult climb. Preserve character appearance."
+        },
+        {
+          "number": 6,
+          "id": "scene_06_5a529150",
+          "title": "The Final Spark",
+          "originalNarration": "At the top, her hands trembled as she repaired the mechanism and prepared the old lamp to shine again.",
+          "productionNarration": "At the top, her hands trembled as she repaired the mechanism and prepared the old lamp to shine again.",
+          "emotion": "hopeful, anxious",
+          "visualPrompt": "Inside the lighthouse lantern room, Mira carefully works on the old mechanical lighthouse lamp. Her hands adjust a small component near the central glass lighting mechanism. She wears the same navy jacket and mustard-yellow scarf, with her dark brown hair tied in a low ponytail. Her face shows concentration and hope. Tall curved glass windows reveal violent waves and lightning outside. The lamp is not yet fully illuminated, but a tiny warm golden spark begins to appear. Highly detailed cinematic photorealism, dramatic close-up, vertical 9:16 framing.",
+          "negativePrompt": "fully illuminated lighthouse beam, modern electronic control panel, different character, futuristic machinery, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Focus on Mira's hands and the lighting mechanism. The lighthouse should not be fully illuminated yet."
+        },
+        {
+          "number": 7,
+          "id": "scene_07_f93c6d5b",
+          "title": "The Light Returns",
+          "originalNarration": "Then, with one final turn, the great light awakened, sending a golden beam across the endless sea.",
+          "productionNarration": "Then, with one final turn, the great light awakened, sending a golden beam across the endless sea.",
+          "emotion": "triumphant, uplifting",
+          "visualPrompt": "A breathtaking cinematic exterior shot of the same old lighthouse suddenly shining brightly during the nighttime storm. A powerful golden lighthouse beam cuts through heavy rain and illuminates the dark ocean. Mira is visible as a small silhouette behind the lantern room glass. Huge waves reflect the warm golden light. Deep navy storm clouds contrast with the brilliant amber beam. Epic cinematic photorealism, volumetric light, realistic ocean spray, dramatic vertical composition, 9:16 framing.",
+          "negativePrompt": "daylight, multiple lighthouse beams, modern skyscrapers, different lighthouse, cartoon, low detail, text, watermark",
+          "durationHintSeconds": 7,
+          "notes": "This is the visual climax. Emphasize the golden beam cutting through darkness."
+        },
+        {
+          "number": 8,
+          "id": "scene_08_2e536e60",
+          "title": "A Way Home",
+          "originalNarration": "By morning, the boat had returned safely. Mira smiled as the first sunrise touched the coast. Sometimes, one light is enough to bring someone home.",
+          "productionNarration": "By morning, the boat had returned safely. Mira smiled as the first sunrise touched the coast. Sometimes, one light is enough to bring someone home.",
+          "emotion": "warm, peaceful, inspiring",
+          "visualPrompt": "A beautiful cinematic sunrise over the same coastal village and lighthouse after the storm. The ocean has become calm, and a small fishing boat safely approaches the harbor in the distance. Mira stands on a rocky overlook beside the lighthouse, wearing her consistent navy jacket and mustard-yellow scarf. Her dark brown hair is tied in a low ponytail. She looks toward the returning boat with a gentle relieved smile. Soft golden sunrise light touches her face and the coastal landscape. Peaceful ocean, warm amber and soft orange tones, emotional cinematic ending, photorealistic, vertical 9:16 composition.",
+          "negativePrompt": "nighttime storm, dangerous giant waves, different character, different clothing, crowded harbor, cartoon, text, watermark",
+          "durationHintSeconds": 7,
+          "notes": "End with emotional relief and hope. A slow camera pull-back would work well."
+        }
+      ]
+    },
+    "verification": {
+      "status": "completed",
+      "submittedAt": "2026-11-23T08:53:06.211Z",
+      "completedAt": "2026-11-23T08:53:06.215Z",
+      "nodeValidation": {
+        "valid": true,
+        "errors": [],
+        "warnings": []
+      },
+      "geminiReport": {
+        "summary": "Gemini API key is not configured. Skipping creative gatekeeper. Node.js validation results still apply.",
+        "issues": [
+          {
+            "severity": "important",
+            "message": "GEMINI_API_KEY is missing. Add it to your .env to enable the creative gatekeeper."
+          }
+        ]
+      }
+    },
+    "approvedByUser": false
+  }
+}

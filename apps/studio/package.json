@@ -1,0 +1,27 @@
+{
+  "name": "@framewright/studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@framewright/shared": "*",
+    "@remotion/player": "4.0.545",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.545"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.14",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.14",
+    "typescript": "5.9.3",
+    "vite": "^6.2.2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "2.0",
+  "project": {
+    "id": "project_e0e73365-cd8",
+    "title": "Untitled Project",
+    "description": "",
+    "aspectRatio": "9:16",
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "createdAt": "2026-11-21T14:55:43.958Z",
+    "updatedAt": "2026-11-21T14:55:43.958Z"
+  },
+  "story": {
+    "originalText": "",
+    "currentText": "",
+    "language": "en",
+    "revisions": []
+  },
+  "production": {
+    "visualStyle": {},
+    "characterProfiles": [],
+    "narrationProfile": {},
+    "musicProfile": {},
+    "globalInstructions": ""
+  },
+  "scenes": [],
+  "assets": {
+    "images": [],
+    "audio": [],
+    "music": [],
+    "soundEffects": []
+  },
+  "settings": {},
+  "validation": {
+    "status": "pending",
+    "issues": []
+  }
+}

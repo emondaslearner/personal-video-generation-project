@@ -1,0 +1,259 @@
+{
+  "projectId": "project_d572a1a0-7c1",
+  "title": "The Light That Never Left",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "assetMode": "render",
+  "scenes": [
+    {
+      "id": "scene_01_8fdb56ee",
+      "number": 1,
+      "title": "The Quiet Lighthouse",
+      "originalNarration": "At the edge of a forgotten coastal village stood an old lighthouse, watched over by a young keeper named Mira.",
+      "narration": "At the edge of a forgotten coastal village stood an old lighthouse, watched over by a young keeper named Mira.",
+      "emotion": "peaceful, reflective",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_01_5fc1d62f.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A cinematic photorealistic establishing shot of an isolated old lighthouse standing on a rocky coastline beside a small sleeping fishing village at dusk. The ocean stretches into the distance beneath heavy storm clouds. Mira, a 28-year-old woman with long dark brown hair in a low ponytail, wearing a navy waterproof jacket and mustard-yellow scarf, stands near the lighthouse entrance looking toward the sea. Deep blue atmosphere, subtle warm window lights, realistic ocean and rock textures, dramatic cinematic composition, vertical 9:16 framing. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "At the edge of a forgotten coastal village stood an old lighthouse, watched over by a young keeper named Mira.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_01_ff1fbe71.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:54:03.816Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_02_f52bd0cc",
+      "number": 2,
+      "title": "The Light Goes Out",
+      "originalNarration": "One terrible night, a violent storm arrived. Thunder shook the coast, and suddenly, the lighthouse went dark.",
+      "narration": "One terrible night, a violent storm arrived. Thunder shook the coast, and suddenly, the lighthouse went dark.",
+      "emotion": "tense, alarming",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_02_1254efec.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A dramatic cinematic view of the same old coastal lighthouse during a violent nighttime storm. Huge dark ocean waves crash against the rocks, heavy rain sweeps across the scene, and lightning illuminates thick storm clouds. The lighthouse lantern room is completely dark, with no beam visible. Mira, wearing her consistent navy jacket and mustard-yellow scarf, looks up in alarm near the lighthouse entrance. Deep navy and cold slate-blue color palette, realistic rain and water, dramatic lightning, vertical 9:16 composition. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "One terrible night, a violent storm arrived. Thunder shook the coast, and suddenly, the lighthouse went dark.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_02_f4a21a90.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:54:16.709Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_03_8b1877a3",
+      "number": 3,
+      "title": "A Boat in the Darkness",
+      "originalNarration": "Far beyond the waves, Mira noticed a tiny fishing boat struggling against the storm, unable to find the shore.",
+      "narration": "Far beyond the waves, Mira noticed a tiny fishing boat struggling against the storm, unable to find the shore.",
+      "emotion": "worried, urgent",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_03_099e866d.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A cinematic over-the-shoulder shot from behind Mira as she looks through a rain-covered lighthouse window toward a dangerous dark ocean. Far away, a tiny fishing boat struggles among enormous waves, barely visible through the rain. Mira's dark brown hair is tied in a low ponytail, and her mustard-yellow scarf is clearly visible over her navy jacket. A faint lightning flash reveals the distant boat. Strong sense of distance, danger, realistic storm atmosphere, dramatic lighting, vertical 9:16 framing. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "Far beyond the waves, Mira noticed a tiny fishing boat struggling against the storm, unable to find the shore.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_03_70b835bb.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:54:29.720Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_04_e328f0b7",
+      "number": 4,
+      "title": "The Decision",
+      "originalNarration": "She grabbed an emergency lantern and ran toward the tower. There was no time to wait for help.",
+      "narration": "She grabbed an emergency lantern and ran toward the tower. There was no time to wait for help.",
+      "emotion": "determined, courageous",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_04_48302acc.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A cinematic medium shot of Mira urgently grabbing an old brass emergency lantern inside the lighthouse entrance. She has a determined expression, dark brown eyes, long dark brown hair tied in a low ponytail, navy waterproof jacket, mustard-yellow scarf, and silver pendant. The lantern produces a warm golden glow against the cold blue darkness. Rainwater is visible on her clothing. Old stone walls and wooden lighthouse stairs are visible behind her. Photorealistic cinematic lighting, emotional storytelling, vertical 9:16 framing. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "She grabbed an emergency lantern and ran toward the tower. There was no time to wait for help.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_04_4c7ca17c.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:54:40.944Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_05_3cc075fd",
+      "number": 5,
+      "title": "The Climb",
+      "originalNarration": "Step by step, she climbed the narrow spiral staircase, fighting the wind and darkness with every breath.",
+      "narration": "Step by step, she climbed the narrow spiral staircase, fighting the wind and darkness with every breath.",
+      "emotion": "struggling, suspenseful",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_05_65e3c6cc.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A cinematic low-angle view inside a narrow ancient lighthouse spiral staircase. Mira climbs upward while holding a glowing brass lantern. Her navy waterproof jacket and mustard-yellow scarf remain consistent, and her dark brown hair is tied in a low ponytail. Her face shows exhaustion and determination. The circular stone walls and iron railing disappear into darkness above. Warm lantern light creates dramatic shadows across the old stone steps. Realistic architectural details, cinematic suspense, vertical 9:16 composition. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "Step by step, she climbed the narrow spiral staircase, fighting the wind and darkness with every breath.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_05_0e26edce.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:54:55.155Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_06_f0193485",
+      "number": 6,
+      "title": "The Final Spark",
+      "originalNarration": "At the top, her hands trembled as she repaired the mechanism and prepared the old lamp to shine again.",
+      "narration": "At the top, her hands trembled as she repaired the mechanism and prepared the old lamp to shine again.",
+      "emotion": "hopeful, anxious",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_06_7bb07c25.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. Inside the lighthouse lantern room, Mira carefully works on the old mechanical lighthouse lamp. Her hands adjust a small component near the central glass lighting mechanism. She wears the same navy jacket and mustard-yellow scarf, with her dark brown hair tied in a low ponytail. Her face shows concentration and hope. Tall curved glass windows reveal violent waves and lightning outside. The lamp is not yet fully illuminated, but a tiny warm golden spark begins to appear. Highly detailed cinematic photorealism, dramatic close-up, vertical 9:16 framing. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "At the top, her hands trembled as she repaired the mechanism and prepared the old lamp to shine again.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_06_e043859a.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:55:07.274Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_07_89da862d",
+      "number": 7,
+      "title": "The Light Returns",
+      "originalNarration": "Then, with one final turn, the great light awakened, sending a golden beam across the endless sea.",
+      "narration": "Then, with one final turn, the great light awakened, sending a golden beam across the endless sea.",
+      "emotion": "triumphant, uplifting",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_07_c89f249d.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A breathtaking cinematic exterior shot of the same old lighthouse suddenly shining brightly during the nighttime storm. A powerful golden lighthouse beam cuts through heavy rain and illuminates the dark ocean. Mira is visible as a small silhouette behind the lantern room glass. Huge waves reflect the warm golden light. Deep navy storm clouds contrast with the brilliant amber beam. Epic cinematic photorealism, volumetric light, realistic ocean spray, dramatic vertical composition, 9:16 framing. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "Then, with one final turn, the great light awakened, sending a golden beam across the endless sea.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_07_dafcb635.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:55:19.395Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_08_c8734c4b",
+      "number": 8,
+      "title": "A Way Home",
+      "originalNarration": "By morning, the boat had returned safely. Mira smiled as the first sunrise touched the coast. Sometimes, one light is enough to bring someone home.",
+      "narration": "By morning, the boat had returned safely. Mira smiled as the first sunrise touched the coast. Sometimes, one light is enough to bring someone home.",
+      "emotion": "warm, peaceful, inspiring",
+      "image": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\frames\\scene_08_3d303a82.png",
+        "prompt": "Cinematic photorealism, emotional storytelling, high-detail environments, realistic textures, dramatic atmospheric lighting. color palette: Deep navy blue, stormy slate gray, cold ocean blue, warm golden amber, subtle sunrise orange. lighting: Dark atmospheric storm lighting contrasted with warm lantern light and the powerful golden lighthouse beam. Soft golden sunrise in the final scene. Cinematic wide establishing shots, emotional close-ups, slow camera push-ins, dramatic low angles, vertical composition designed for 9:16 video. A beautiful cinematic sunrise over the same coastal village and lighthouse after the storm. The ocean has become calm, and a small fishing boat safely approaches the harbor in the distance. Mira stands on a rocky overlook beside the lighthouse, wearing her consistent navy jacket and mustard-yellow scarf. Her dark brown hair is tied in a low ponytail. She looks toward the returning boat with a gentle relieved smile. Soft golden sunrise light touches her face and the coastal landscape. Peaceful ocean, warm amber and soft orange tones, emotional cinematic ending, photorealistic, vertical 9:16 composition. Characters: Mira, A 28-year-old woman with a gentle but determined face, light olive skin, expressive dark brown eyes, and long dark brown hair tied in a loose low ponytail. Natural facial features and realistic proportions., A dark navy waterproof jacket, a mustard-yellow knitted scarf, dark trousers, and worn brown leather boots., A small silver pendant necklace and a distinctive mustard-yellow scarf., Always preserve Mira's face, dark brown eyes, low ponytail, navy jacket, mustard-yellow scarf, and silver pendant. Her clothing may look wet during the storm, but its colors and design must remain unchanged. Maintain the same main character throughout all scenes. Mira must have consistent facial features, hairstyle, age, clothing, and body proportions. Every image should look like a frame from the same cinematic film. Maintain visual continuity between scenes. Compose important subjects within the central vertical frame. This is one continuous cinematic story. Preserve the original story and narration. Maintain strict character consistency for Mira across all scenes. Use the same lighthouse and coastal environment throughout. The visual progression must move from peaceful dusk to a dangerous nighttime storm and finally to a warm sunrise. Do not add new characters or change the story. All images must be composed vertically in 9:16. Narration should sound natural, emotionally engaging, and clearly understandable. Music must remain below the narration. The final scene should feel peaceful, hopeful, and emotionally satisfying. highly detailed, cinematic composition, sharp focus, professional quality",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 2684355,
+      "subtitle": {
+        "text": "By morning, the boat had returned safely. Mira smiled as the first sunrise touched the coast. Sometimes, one light is enough to bring someone home.",
+        "startFrame": 0,
+        "endFrame": 2684355
+      },
+      "audio": {
+        "path": "C:\\video generator\\apps\\api\\projects\\project_d572a1a0-7c1\\audio\\scene_08_3236dd4e.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 89478.485,
+        "status": "generated",
+        "generatedAt": "2026-11-23T09:55:34.899Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    }
+  ],
+  "musicVolume": 0.22
+}

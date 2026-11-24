@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "2.0",
+  "project": {
+    "id": "test_phase1",
+    "title": "Phase 1 Test",
+    "description": "",
+    "aspectRatio": "9:16",
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "createdAt": "2026-11-21T12:22:11.166Z",
+    "updatedAt": "2026-11-21T12:22:11.171Z"
+  },
+  "story": {
+    "originalText": "",
+    "currentText": "",
+    "language": "en",
+    "revisions": []
+  },
+  "production": {
+    "visualStyle": {},
+    "characterProfiles": [],
+    "narrationProfile": {},
+    "musicProfile": {},
+    "globalInstructions": ""
+  },
+  "scenes": [],
+  "assets": {
+    "images": [],
+    "audio": [],
+    "music": [],
+    "soundEffects": []
+  },
+  "settings": {},
+  "validation": {
+    "status": "pending",
+    "issues": []
+  }
+}

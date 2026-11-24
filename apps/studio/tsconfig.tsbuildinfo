@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/AssetPanel.tsx","./src/components/ExportHistory.tsx","./src/components/ProductionIntakePanel.tsx","./src/components/ReadinessChecklist.tsx","./src/components/SceneStatusPanel.tsx","./src/lib/production-template.ts"],"version":"5.9.3"}

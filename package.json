@@ -1,0 +1,26 @@
+{
+  "name": "framewright",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Framewright — personal AI-assisted story-to-video studio",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "story-video-engine"
+  ],
+  "scripts": {
+    "dev:studio": "npm run build:shared && npm run dev -w @framewright/studio",
+    "dev:api": "npm run build:shared && npm run dev -w @framewright/api",
+    "dev:remotion": "npm run build:shared && npm run dev -w story-video-engine",
+    "build:shared": "npm run build -w @framewright/shared",
+    "build:api": "npm run build:shared && npm run build -w @framewright/api",
+    "build:studio": "npm run build:shared && npm run build -w @framewright/studio",
+    "typecheck": "npm run build:shared && npm run build -w @framewright/api && npx tsc -b apps/studio/tsconfig.json && npx tsc -p story-video-engine/tsconfig.json",
+    "build": "npm run build:shared && npm run build -w @framewright/api && npm run build -w @framewright/studio && npm run build -w story-video-engine",
+    "test:api": "npm run build:shared && npm run test -w @framewright/api",
+    "render:test": "npm run render:test -w story-video-engine"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  }
+}

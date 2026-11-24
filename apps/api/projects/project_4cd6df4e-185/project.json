@@ -1,0 +1,1050 @@
+{
+  "schemaVersion": "2.0",
+  "project": {
+    "id": "project_4cd6df4e-185",
+    "title": "The Dog Who Waited at Platform 9",
+    "description": "An emotional cinematic story about a loyal dog who waits for 317 nights at a railway station, hoping to see his beloved owner again.",
+    "aspectRatio": "9:16",
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "createdAt": "2026-11-23T12:29:31.874Z",
+    "updatedAt": "2026-11-23T12:49:32.100Z"
+  },
+  "story": {
+    "originalText": "",
+    "currentText": "",
+    "language": "en",
+    "targetDurationSeconds": 120,
+    "revisions": []
+  },
+  "production": {
+    "visualStyle": {},
+    "characterProfiles": [],
+    "narrationProfile": {},
+    "musicProfile": {},
+    "globalInstructions": ""
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "number": 1,
+      "title": "317 Nights",
+      "originalNarration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+      "narration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+      "emotion": "mysterious, emotional",
+      "image": {
+        "path": "frames/scene_01_cf5f9d10.png",
+        "prompt": "A cinematic photorealistic vertical establishing shot of an old railway station at midnight. A lonely golden retriever with warm honey-golden fur and a worn red leather collar sits quietly on an empty wooden bench near platform number nine. Rain falls outside the station roof. A distant train light glows faintly in the darkness. Moody blue atmosphere, warm amber station lamps, realistic wet floor reflections, cinematic depth of field, 9:16 composition. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistenc.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 209,
+      "subtitle": {
+        "text": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+        "startFrame": 0,
+        "endFrame": 209
+      },
+      "audio": {
+        "path": "audio/scene_01_bb3177f3.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.963,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:15.663Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_02",
+      "number": 2,
+      "title": "The Daily Wait",
+      "originalNarration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+      "narration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+      "emotion": "lonely, longing",
+      "image": {
+        "path": "frames/scene_02_7e7ef463.png",
+        "prompt": "A cinematic side view of the same golden retriever sitting beside the yellow safety line at platform nine. A passenger train slowly moves behind him while blurred passengers walk past. Milo keeps looking toward the arriving train doors with hopeful dark brown eyes. His red collar and silver tag are clearly visible. Warm station lights contrast with the cool blue night, realistic motion blur, emotional photorealism, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 194,
+      "subtitle": {
+        "text": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+        "startFrame": 0,
+        "endFrame": 194
+      },
+      "audio": {
+        "path": "audio/scene_02_67341195.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.461,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:26.932Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_03",
+      "number": 3,
+      "title": "The Kind Stranger",
+      "originalNarration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+      "narration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+      "emotion": "gentle, compassionate",
+      "image": {
+        "path": "frames/scene_03_3f2b3a37.png",
+        "prompt": "A cinematic medium shot of Arun, a 45-year-old railway cleaner with short black hair, a trimmed moustache, and faded dark green maintenance jacket, kneeling beside Milo at platform nine. Arun gently places a small bowl of food in front of the golden retriever. Milo looks up gratefully. Warm overhead station lighting, realistic railway benches and tiled floor, intimate emotional composition, photorealistic, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Arun, A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin. , A faded dark green railway maintenance jacket, dark trousers, and black work shoes. , Short black hair, moustache, green jacket, gentle expression. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorea.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 209,
+      "subtitle": {
+        "text": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+        "startFrame": 0,
+        "endFrame": 209
+      },
+      "audio": {
+        "path": "audio/scene_03_2cebab0c.wav",
+        "voice": "af_bella",
+        "speed": 0.92,
+        "durationSeconds": 6.936,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:35.625Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_04",
+      "number": 4,
+      "title": "The Empty Bench",
+      "originalNarration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+      "narration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+      "emotion": "sad, quiet",
+      "image": {
+        "path": "frames/scene_04_da10e213.png",
+        "prompt": "A cinematic low-angle close shot beneath an old wooden railway bench. Milo, the same golden retriever with red collar, rests on the cold tiled floor with his head on his paws. His ears lift as a distant train approaches. Empty platform nine stretches into the background. Blue nighttime lighting, soft amber lamps, subtle rain reflections, realistic fur detail, cinematic photorealism, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 190,
+      "subtitle": {
+        "text": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+        "startFrame": 0,
+        "endFrame": 190
+      },
+      "audio": {
+        "path": "audio/scene_04_3b6e6a74.wav",
+        "voice": "af_bella",
+        "speed": 0.92,
+        "durationSeconds": 6.305,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:42.040Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_05",
+      "number": 5,
+      "title": "The Memory",
+      "originalNarration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+      "narration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+      "emotion": "nostalgic, emotional",
+      "image": {
+        "path": "frames/scene_05_656b714c.png",
+        "prompt": "A soft cinematic flashback at platform nine during a peaceful golden afternoon. Nora, a 72-year-old woman with silver-white hair in a low bun, beige wool coat, and burgundy scarf, smiles warmly while kneeling to hug Milo, the same golden retriever wearing his red collar. Sunlight streams through the station roof. A train waits in the background. Warm nostalgic color grading, realistic expressions, photorealistic, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Aru.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 174,
+      "subtitle": {
+        "text": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+        "startFrame": 0,
+        "endFrame": 174
+      },
+      "audio": {
+        "path": "audio/scene_05_39cd3894.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 5.788,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:49.266Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_06",
+      "number": 6,
+      "title": "The Promise",
+      "originalNarration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+      "narration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+      "emotion": "tender, heartbreaking",
+      "image": {
+        "path": "frames/scene_06_305ddb42.png",
+        "prompt": "An intimate cinematic close-up of Nora gently holding Milo's face with both hands beside a waiting passenger train. Nora wears her beige wool coat and burgundy scarf, her silver hair neatly tied in a low bun. Her eyes are slightly wet with emotion. Milo looks directly into her eyes, wearing his familiar red collar. Soft golden afternoon light, realistic skin and fur details, emotional photorealism, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout al.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 204,
+      "subtitle": {
+        "text": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+        "startFrame": 0,
+        "endFrame": 204
+      },
+      "audio": {
+        "path": "audio/scene_06_0b4e472a.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.789,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:30:59.466Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_07",
+      "number": 7,
+      "title": "The Train Leaves",
+      "originalNarration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+      "narration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+      "emotion": "heartbreaking, helpless",
+      "image": {
+        "path": "frames/scene_07_c097ef30.png",
+        "prompt": "A cinematic view of a passenger train slowly departing platform nine. Nora is visible through a train window waving sadly, wearing her beige coat and burgundy scarf. Milo stands near the platform edge, watching her disappear, his red collar visible. The train moves into a hazy distance while the dog remains alone. Warm afternoon light fading into cooler shadows, photorealistic cinematic storytelling, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 172,
+      "subtitle": {
+        "text": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+        "startFrame": 0,
+        "endFrame": 172
+      },
+      "audio": {
+        "path": "audio/scene_07_db4f9551.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 5.71,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:31:09.851Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_08",
+      "number": 8,
+      "title": "Days Become Months",
+      "originalNarration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+      "narration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+      "emotion": "lonely, faithful",
+      "image": {
+        "path": "frames/scene_08_ac3271b5.png",
+        "prompt": "A cinematic visual montage represented in one photorealistic frame: Milo sitting in the same place at platform nine while the atmosphere suggests changing seasons outside the station windows. Rainy evenings, misty mornings, and falling autumn leaves are subtly reflected in the environment. The golden retriever remains consistent with the same red collar. Moody cinematic lighting, emotional atmosphere, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 189,
+      "subtitle": {
+        "text": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+        "startFrame": 0,
+        "endFrame": 189
+      },
+      "audio": {
+        "path": "audio/scene_08_b63d2900.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.273,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:31:21.213Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_09",
+      "number": 9,
+      "title": "Arun's Promise",
+      "originalNarration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+      "narration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+      "emotion": "warm, compassionate",
+      "image": {
+        "path": "frames/scene_09_31833404.png",
+        "prompt": "A cinematic nighttime shot of Arun sitting beside Milo on a railway bench at platform nine. Arun wears his faded dark green maintenance jacket and gently rests one hand on Milo's back. A small food container sits nearby. Milo leans against him while looking toward the tracks. Warm amber station light, quiet blue shadows, heartfelt realistic storytelling, photorealistic, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Arun, A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin. , A faded dark green railway maintenance jacket, dark trousers, and black work shoes. , Short black hair, moustache, green jacket, gentle expression. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealistic, cinematic still, sharp focus,.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 184,
+      "subtitle": {
+        "text": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+        "startFrame": 0,
+        "endFrame": 184
+      },
+      "audio": {
+        "path": "audio/scene_09_6d26fa05.wav",
+        "voice": "af_bella",
+        "speed": 0.92,
+        "durationSeconds": 6.108,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:31:34.823Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_10",
+      "number": 10,
+      "title": "The Coldest Night",
+      "originalNarration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+      "narration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+      "emotion": "worried, heartbreaking",
+      "image": {
+        "path": "frames/scene_10_df7df279.png",
+        "prompt": "A cinematic winter night at the same railway platform. Light snow and cold rain blow through the station entrance. Milo, the same golden retriever with red collar, curls beneath the familiar bench, looking tired but alert. His golden fur is slightly damp. Arun approaches carrying a warm blanket. Blue-gray cold atmosphere, warm distant station lamps, realistic fur and environmental details, emotional photorealism, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Arun, A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin. , A faded dark green railway maintenance jacket, dark trousers, and black work shoes. , Short black hair, moustache, green jacket, gentle expression. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. p.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 206,
+      "subtitle": {
+        "text": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+        "startFrame": 0,
+        "endFrame": 206
+      },
+      "audio": {
+        "path": "audio/scene_10_03bf6116.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.863,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:31:48.276Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_11",
+      "number": 11,
+      "title": "A Familiar Whistle",
+      "originalNarration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+      "narration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+      "emotion": "anticipation, suspense",
+      "image": {
+        "path": "frames/scene_11_a72b3a83.png",
+        "prompt": "An intense cinematic close-up of Milo suddenly lifting his head and raising his ears at platform nine. His expressive dark brown eyes look toward the tracks. The same red collar and silver tag are clearly visible. A distant train headlight glows through the dark station entrance. Arun stands in the background watching. Dramatic shallow depth of field, suspenseful blue and amber lighting, photorealistic, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Arun, A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin. , A faded dark green railway maintenance jacket, dark trousers, and black work shoes. , Short black hair, moustache, green jacket, gentle expression. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealis.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 215,
+      "subtitle": {
+        "text": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+        "startFrame": 0,
+        "endFrame": 215
+      },
+      "audio": {
+        "path": "audio/scene_11_ad2e6f0e.wav",
+        "voice": "af_bella",
+        "speed": 0.94,
+        "durationSeconds": 7.145,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:32:01.392Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_12",
+      "number": 12,
+      "title": "Someone Returns",
+      "originalNarration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+      "narration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+      "emotion": "hopeful, emotional",
+      "image": {
+        "path": "frames/scene_12_701ce24a.png",
+        "prompt": "A cinematic slow-motion shot of Nora stepping down carefully from a passenger train onto platform nine. She is 72 years old, with silver-white hair tied in a low bun, wearing her familiar beige wool coat and burgundy knitted scarf, holding a simple wooden walking cane. Warm train doorway light illuminates her face. The station is quiet and atmospheric. Photorealistic emotional storytelling, vertical 9:16. . Character consistency: Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 248,
+      "subtitle": {
+        "text": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+        "startFrame": 0,
+        "endFrame": 248
+      },
+      "audio": {
+        "path": "audio/scene_12_96f050b4.wav",
+        "voice": "af_bella",
+        "speed": 0.92,
+        "durationSeconds": 8.244,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:32:18.612Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_13",
+      "number": 13,
+      "title": "The Moment of Recognition",
+      "originalNarration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+      "narration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+      "emotion": "surprised, joyful",
+      "image": {
+        "path": "frames/scene_13_36c3ad82.png",
+        "prompt": "An emotional cinematic close-up of Milo standing completely still at platform nine, staring toward Nora. His dark brown eyes become bright with recognition, his ears lift, and his tail begins to move. In the softly blurred background, Nora smiles through tears. Preserve Milo's golden fur and red collar. Warm golden light begins to replace the cold blue station atmosphere, photorealistic, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. p.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 212,
+      "subtitle": {
+        "text": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+        "startFrame": 0,
+        "endFrame": 212
+      },
+      "audio": {
+        "path": "audio/scene_13_c7229f69.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 7.06,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:32:31.996Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_14",
+      "number": 14,
+      "title": "The Reunion",
+      "originalNarration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+      "narration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+      "emotion": "deeply emotional, joyful",
+      "image": {
+        "path": "frames/scene_14_ac3438b6.png",
+        "prompt": "A breathtaking cinematic emotional reunion on platform nine. Milo, the same golden retriever with a red collar, runs toward Nora. Nora kneels carefully with her wooden cane beside her, opening her arms and smiling through tears. Milo reaches her and gently presses his head against her chest. Her beige wool coat and burgundy scarf are clearly visible. Warm golden station light, realistic emotional expressions, detailed fur, cinematic photorealism, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her. Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition, vertical 9:16 portrait composition, full-bleed frame, no letterboxing. Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting. Maintain strict visual c.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 203,
+      "subtitle": {
+        "text": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+        "startFrame": 0,
+        "endFrame": 203
+      },
+      "audio": {
+        "path": "audio/scene_14_db0a74c0.wav",
+        "voice": "af_bella",
+        "speed": 1,
+        "durationSeconds": 6.743,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:32:44.317Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_15",
+      "number": 15,
+      "title": "Never Forgotten",
+      "originalNarration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+      "narration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+      "emotion": "peaceful, heartwarming, inspiring",
+      "image": {
+        "path": "frames/scene_15_e67b5d72.png",
+        "prompt": "A beautiful cinematic final scene at platform nine during a peaceful golden sunrise. Nora sits on the familiar railway bench with Milo resting happily beside her, his head gently on her lap. Nora strokes his golden fur while smiling. Arun watches them from a short distance with a warm relieved expression. Soft golden sunlight enters the station, illuminating the floor and their faces. The railway platform feels peaceful and welcoming. Emotional photorealism, warm cinematic color grading, vertical 9:16. . Character consistency: Milo, A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face. , A simple worn red leather collar with a small round silver tag. , Golden coat, dark brown eyes, red collar, small silver identification tag. | Nora, A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes. , A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes. , Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her | Arun, A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin. , A faded dark green railway maintenance jacket, dark trousers, and black work shoes. , Short black hair, moustache, green jacket, gentle expression. . Same person across frames, identical face and outfit. Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene. , palette: Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise. Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow c.",
+        "width": 720,
+        "height": 1280,
+        "status": "generated"
+      },
+      "durationInFrames": 259,
+      "subtitle": {
+        "text": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+        "startFrame": 0,
+        "endFrame": 259
+      },
+      "audio": {
+        "path": "audio/scene_15_f96c639b.wav",
+        "voice": "af_bella",
+        "speed": 0.92,
+        "durationSeconds": 8.624,
+        "status": "generated",
+        "generatedAt": "2026-11-23T12:32:59.152Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    }
+  ],
+  "assets": {
+    "images": [
+      "frames/scene_01_cf5f9d10.png",
+      "frames/scene_02_7e7ef463.png",
+      "frames/scene_03_3f2b3a37.png",
+      "frames/scene_04_da10e213.png",
+      "frames/scene_05_656b714c.png",
+      "frames/scene_06_305ddb42.png",
+      "frames/scene_07_c097ef30.png",
+      "frames/scene_08_ac3271b5.png",
+      "frames/scene_09_31833404.png",
+      "frames/scene_10_df7df279.png",
+      "frames/scene_11_a72b3a83.png",
+      "frames/scene_12_701ce24a.png",
+      "frames/scene_13_36c3ad82.png",
+      "frames/scene_14_ac3438b6.png",
+      "frames/scene_15_e67b5d72.png"
+    ],
+    "audio": [
+      "audio/scene_01_bb3177f3.wav",
+      "audio/scene_02_67341195.wav",
+      "audio/scene_03_2cebab0c.wav",
+      "audio/scene_04_3b6e6a74.wav",
+      "audio/scene_05_39cd3894.wav",
+      "audio/scene_06_0b4e472a.wav",
+      "audio/scene_07_db4f9551.wav",
+      "audio/scene_08_b63d2900.wav",
+      "audio/scene_09_6d26fa05.wav",
+      "audio/scene_10_03bf6116.wav",
+      "audio/scene_11_ad2e6f0e.wav",
+      "audio/scene_12_96f050b4.wav",
+      "audio/scene_13_c7229f69.wav",
+      "audio/scene_14_db0a74c0.wav",
+      "audio/scene_15_f96c639b.wav"
+    ],
+    "music": [],
+    "soundEffects": []
+  },
+  "settings": {
+    "musicVolume": 0.22
+  },
+  "validation": {
+    "status": "ready",
+    "issues": []
+  },
+  "productionIntake": {
+    "originalSubmission": {
+      "schemaVersion": "2.1-package",
+      "projectInfo": {
+        "title": "The Dog Who Waited at Platform 9",
+        "description": "An emotional cinematic story about a loyal dog who waits for 317 nights at a railway station, hoping to see his beloved owner again.",
+        "aspectRatio": "9:16",
+        "targetDurationSeconds": 120,
+        "language": "en"
+      },
+      "visualStyle": {
+        "overallStyle": "Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting",
+        "colorPalette": "Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise",
+        "lighting": "Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene.",
+        "cameraLanguage": "Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition",
+        "negativePrompt": "blurry, low quality, low resolution, cartoon, illustration, unrealistic dog anatomy, extra legs, deformed paws, inconsistent character appearance, duplicate characters, text, subtitles, watermark, logo, oversaturated colors",
+        "referenceNotes": "Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. Milo must always be the same golden retriever with the same golden coat and red collar.",
+        "additionalNotes": "Every scene should look like a frame from the same cinematic film. Maintain the same railway station, platform nine, train design, and character appearances. Compose important subjects within the central vertical frame."
+      },
+      "characterProfiles": [
+        {
+          "id": "char_01",
+          "name": "Milo",
+          "appearance": "A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face.",
+          "clothing": "A simple worn red leather collar with a small round silver tag.",
+          "distinguishingFeatures": "Golden coat, dark brown eyes, red collar, small silver identification tag.",
+          "consistencyNotes": "Always preserve Milo's golden coat, face, body proportions, floppy ears, and red collar. His fur may become wet or slightly dirty during rainy scenes."
+        },
+        {
+          "id": "char_02",
+          "name": "Nora",
+          "appearance": "A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes.",
+          "clothing": "A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes.",
+          "distinguishingFeatures": "Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her return.",
+          "consistencyNotes": "Preserve Nora's facial features, hairstyle, age, beige coat, and burgundy scarf in every appearance."
+        },
+        {
+          "id": "char_03",
+          "name": "Arun",
+          "appearance": "A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin.",
+          "clothing": "A faded dark green railway maintenance jacket, dark trousers, and black work shoes.",
+          "distinguishingFeatures": "Short black hair, moustache, green jacket, gentle expression.",
+          "consistencyNotes": "Maintain Arun's appearance and clothing throughout all scenes."
+        }
+      ],
+      "narrationProfile": {
+        "defaultVoice": "af_bella",
+        "defaultSpeed": 1,
+        "defaultEmotion": "emotional",
+        "language": "en",
+        "globalInstructions": "Use natural, cinematic English storytelling narration. Begin with a mysterious and curiosity-driven hook. Build emotional warmth gradually. Speak gently during the flashback, create anticipation when the returning train arrives, and deliver the reunion with genuine emotion. Use natural pauses after important lines. Avoid exaggerated acting. Target approximately two minutes of narration."
+      },
+      "musicProfile": {
+        "style": "Original cinematic orchestral ambient soundtrack",
+        "mood": "Mysterious and lonely at the beginning, warm and emotional in the middle, deeply hopeful and uplifting at the ending",
+        "intensity": "medium",
+        "soundDesignNotes": "Begin with soft piano, distant train sounds, and subtle railway ambience. Introduce gentle strings as Milo's story unfolds. Use soft rain and distant thunder during the flashback. Gradually build emotional strings when the returning train arrives. At the reunion, introduce a warm orchestral rise. End with peaceful piano and gentle station ambience. Keep music below narration volume. Use original or properly licensed music without active Content ID claims."
+      },
+      "globalInstructions": "This is one continuous emotional cinematic story. Preserve the original story and narration. Maintain strict character consistency for Milo, Nora, and Arun. Use the same railway station and platform nine throughout. The story should progress from lonely nighttime scenes to a warm emotional reunion. Do not add new main characters or change the story. All images must be composed vertically in 9:16. Milo must behave like a realistic golden retriever. Narration should be emotionally engaging and clearly understandable. Music must remain below narration. The final scene should feel heartwarming, peaceful, and emotionally satisfying.",
+      "scenes": [
+        {
+          "number": 1,
+          "id": "scene_01",
+          "title": "317 Nights",
+          "originalNarration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+          "productionNarration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+          "emotion": "mysterious, emotional",
+          "visualPrompt": "A cinematic photorealistic vertical establishing shot of an old railway station at midnight. A lonely golden retriever with warm honey-golden fur and a worn red leather collar sits quietly on an empty wooden bench near platform number nine. Rain falls outside the station roof. A distant train light glows faintly in the darkness. Moody blue atmosphere, warm amber station lamps, realistic wet floor reflections, cinematic depth of field, 9:16 composition.",
+          "negativePrompt": "daylight, crowded station, multiple dogs, different dog breed, missing red collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Start with a strong visual hook. Slowly push toward Milo sitting alone. Establish mystery immediately."
+        },
+        {
+          "number": 2,
+          "id": "scene_02",
+          "title": "The Daily Wait",
+          "originalNarration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+          "productionNarration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+          "emotion": "lonely, longing",
+          "visualPrompt": "A cinematic side view of the same golden retriever sitting beside the yellow safety line at platform nine. A passenger train slowly moves behind him while blurred passengers walk past. Milo keeps looking toward the arriving train doors with hopeful dark brown eyes. His red collar and silver tag are clearly visible. Warm station lights contrast with the cool blue night, realistic motion blur, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, multiple dogs, missing collar, aggressive behavior, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Use slow motion for the passing train while keeping Milo visually still."
+        },
+        {
+          "number": 3,
+          "id": "scene_03",
+          "title": "The Kind Stranger",
+          "originalNarration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+          "productionNarration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+          "emotion": "gentle, compassionate",
+          "visualPrompt": "A cinematic medium shot of Arun, a 45-year-old railway cleaner with short black hair, a trimmed moustache, and faded dark green maintenance jacket, kneeling beside Milo at platform nine. Arun gently places a small bowl of food in front of the golden retriever. Milo looks up gratefully. Warm overhead station lighting, realistic railway benches and tiled floor, intimate emotional composition, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, different man, modern luxury station, cartoon, distorted anatomy, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Introduce Arun as a kind supporting character. Keep the interaction natural and believable."
+        },
+        {
+          "number": 4,
+          "id": "scene_04",
+          "title": "The Empty Bench",
+          "originalNarration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+          "productionNarration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+          "emotion": "sad, quiet",
+          "visualPrompt": "A cinematic low-angle close shot beneath an old wooden railway bench. Milo, the same golden retriever with red collar, rests on the cold tiled floor with his head on his paws. His ears lift as a distant train approaches. Empty platform nine stretches into the background. Blue nighttime lighting, soft amber lamps, subtle rain reflections, realistic fur detail, cinematic photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, bright daylight, crowded platform, missing collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Create a quiet emotional moment. Use distant train whistle sound design."
+        },
+        {
+          "number": 5,
+          "id": "scene_05",
+          "title": "The Memory",
+          "originalNarration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+          "productionNarration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+          "emotion": "nostalgic, emotional",
+          "visualPrompt": "A soft cinematic flashback at platform nine during a peaceful golden afternoon. Nora, a 72-year-old woman with silver-white hair in a low bun, beige wool coat, and burgundy scarf, smiles warmly while kneeling to hug Milo, the same golden retriever wearing his red collar. Sunlight streams through the station roof. A train waits in the background. Warm nostalgic color grading, realistic expressions, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, nighttime, missing red collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Clearly signal a warm memory through golden lighting and a softer cinematic look."
+        },
+        {
+          "number": 6,
+          "id": "scene_06",
+          "title": "The Promise",
+          "originalNarration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+          "productionNarration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+          "emotion": "tender, heartbreaking",
+          "visualPrompt": "An intimate cinematic close-up of Nora gently holding Milo's face with both hands beside a waiting passenger train. Nora wears her beige wool coat and burgundy scarf, her silver hair neatly tied in a low bun. Her eyes are slightly wet with emotion. Milo looks directly into her eyes, wearing his familiar red collar. Soft golden afternoon light, realistic skin and fur details, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, exaggerated crying, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "This is the emotional promise that explains the dog's behavior. Allow a natural pause after the dialogue."
+        },
+        {
+          "number": 7,
+          "id": "scene_07",
+          "title": "The Train Leaves",
+          "originalNarration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+          "productionNarration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+          "emotion": "heartbreaking, helpless",
+          "visualPrompt": "A cinematic view of a passenger train slowly departing platform nine. Nora is visible through a train window waving sadly, wearing her beige coat and burgundy scarf. Milo stands near the platform edge, watching her disappear, his red collar visible. The train moves into a hazy distance while the dog remains alone. Warm afternoon light fading into cooler shadows, photorealistic cinematic storytelling, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, multiple trains, unsafe dog behavior near train, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Use a slow camera pull-back as the train leaves. Do not show Milo crossing the safety line."
+        },
+        {
+          "number": 8,
+          "id": "scene_08",
+          "title": "Days Become Months",
+          "originalNarration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+          "productionNarration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+          "emotion": "lonely, faithful",
+          "visualPrompt": "A cinematic visual montage represented in one photorealistic frame: Milo sitting in the same place at platform nine while the atmosphere suggests changing seasons outside the station windows. Rainy evenings, misty mornings, and falling autumn leaves are subtly reflected in the environment. The golden retriever remains consistent with the same red collar. Moody cinematic lighting, emotional atmosphere, vertical 9:16.",
+          "negativePrompt": "multiple dogs, different dog breed, missing collar, fantasy effects, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Convey the passage of time using weather and lighting transitions during editing."
+        },
+        {
+          "number": 9,
+          "id": "scene_09",
+          "title": "Arun's Promise",
+          "originalNarration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+          "productionNarration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+          "emotion": "warm, compassionate",
+          "visualPrompt": "A cinematic nighttime shot of Arun sitting beside Milo on a railway bench at platform nine. Arun wears his faded dark green maintenance jacket and gently rests one hand on Milo's back. A small food container sits nearby. Milo leans against him while looking toward the tracks. Warm amber station light, quiet blue shadows, heartfelt realistic storytelling, photorealistic, vertical 9:16.",
+          "negativePrompt": "different man, different dog, crowded station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Show the friendship through a quiet gesture rather than exaggerated action."
+        },
+        {
+          "number": 10,
+          "id": "scene_10",
+          "title": "The Coldest Night",
+          "originalNarration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+          "productionNarration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+          "emotion": "worried, heartbreaking",
+          "visualPrompt": "A cinematic winter night at the same railway platform. Light snow and cold rain blow through the station entrance. Milo, the same golden retriever with red collar, curls beneath the familiar bench, looking tired but alert. His golden fur is slightly damp. Arun approaches carrying a warm blanket. Blue-gray cold atmosphere, warm distant station lamps, realistic fur and environmental details, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "severely injured dog, blood, different dog, different station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Build concern for Milo without depicting injury or cruelty."
+        },
+        {
+          "number": 11,
+          "id": "scene_11",
+          "title": "A Familiar Whistle",
+          "originalNarration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+          "productionNarration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+          "emotion": "anticipation, suspense",
+          "visualPrompt": "An intense cinematic close-up of Milo suddenly lifting his head and raising his ears at platform nine. His expressive dark brown eyes look toward the tracks. The same red collar and silver tag are clearly visible. A distant train headlight glows through the dark station entrance. Arun stands in the background watching. Dramatic shallow depth of field, suspenseful blue and amber lighting, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, missing collar, daylight, cartoon, distorted eyes, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Create a suspenseful pause before the train arrives. Focus on Milo's eyes and ears."
+        },
+        {
+          "number": 12,
+          "id": "scene_12",
+          "title": "Someone Returns",
+          "originalNarration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+          "productionNarration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+          "emotion": "hopeful, emotional",
+          "visualPrompt": "A cinematic slow-motion shot of Nora stepping down carefully from a passenger train onto platform nine. She is 72 years old, with silver-white hair tied in a low bun, wearing her familiar beige wool coat and burgundy knitted scarf, holding a simple wooden walking cane. Warm train doorway light illuminates her face. The station is quiet and atmospheric. Photorealistic emotional storytelling, vertical 9:16.",
+          "negativePrompt": "different woman, different scarf, young woman, multiple elderly women, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Reveal Nora gradually. Show the burgundy scarf before fully revealing her face."
+        },
+        {
+          "number": 13,
+          "id": "scene_13",
+          "title": "The Moment of Recognition",
+          "originalNarration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+          "productionNarration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+          "emotion": "surprised, joyful",
+          "visualPrompt": "An emotional cinematic close-up of Milo standing completely still at platform nine, staring toward Nora. His dark brown eyes become bright with recognition, his ears lift, and his tail begins to move. In the softly blurred background, Nora smiles through tears. Preserve Milo's golden fur and red collar. Warm golden light begins to replace the cold blue station atmosphere, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, exaggerated cartoon expression, missing red collar, different woman, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Hold the recognition moment briefly before Milo starts running."
+        },
+        {
+          "number": 14,
+          "id": "scene_14",
+          "title": "The Reunion",
+          "originalNarration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+          "productionNarration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+          "emotion": "deeply emotional, joyful",
+          "visualPrompt": "A breathtaking cinematic emotional reunion on platform nine. Milo, the same golden retriever with a red collar, runs toward Nora. Nora kneels carefully with her wooden cane beside her, opening her arms and smiling through tears. Milo reaches her and gently presses his head against her chest. Her beige wool coat and burgundy scarf are clearly visible. Warm golden station light, realistic emotional expressions, detailed fur, cinematic photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, aggressive dog, unrealistic anatomy, extra limbs, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "This is the emotional climax. Use a slow-motion embrace and let the music rise naturally."
+        },
+        {
+          "number": 15,
+          "id": "scene_15",
+          "title": "Never Forgotten",
+          "originalNarration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+          "productionNarration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+          "emotion": "peaceful, heartwarming, inspiring",
+          "visualPrompt": "A beautiful cinematic final scene at platform nine during a peaceful golden sunrise. Nora sits on the familiar railway bench with Milo resting happily beside her, his head gently on her lap. Nora strokes his golden fur while smiling. Arun watches them from a short distance with a warm relieved expression. Soft golden sunlight enters the station, illuminating the floor and their faces. The railway platform feels peaceful and welcoming. Emotional photorealism, warm cinematic color grading, vertical 9:16.",
+          "negativePrompt": "nighttime, storm, different dog, different woman, crowded station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Finish with a slow camera pull-back. Leave a short visual pause for the final emotional line."
+        }
+      ]
+    },
+    "verification": {
+      "status": "completed",
+      "submittedAt": "2026-11-23T12:29:43.718Z",
+      "completedAt": "2026-11-23T12:29:46.296Z",
+      "nodeValidation": {
+        "valid": true,
+        "errors": [],
+        "warnings": []
+      },
+      "geminiReport": {
+        "summary": "The production package is exceptionally well-structured, consistent, and emotionally resonant. No critical issues found.",
+        "issues": [
+          {
+            "severity": "suggestion",
+            "path": "scenes[14].visualPrompt",
+            "message": "The final scene includes Arun, which is a nice touch, but ensure he does not distract from the primary focus on Nora and Milo.",
+            "proposedFix": "Keep Arun in the background, slightly out of focus, to maintain the intimacy of the reunion."
+          }
+        ],
+        "overallScore": 98
+      }
+    },
+    "approvedPackage": {
+      "schemaVersion": "2.1-package",
+      "projectInfo": {
+        "title": "The Dog Who Waited at Platform 9",
+        "description": "An emotional cinematic story about a loyal dog who waits for 317 nights at a railway station, hoping to see his beloved owner again.",
+        "aspectRatio": "9:16",
+        "targetDurationSeconds": 120,
+        "language": "en"
+      },
+      "visualStyle": {
+        "overallStyle": "Cinematic photorealism, emotional storytelling, realistic animal behavior, detailed railway environments, expressive characters, dramatic atmospheric lighting",
+        "colorPalette": "Cool midnight blue, rainy slate gray, muted railway brown, warm amber station lights, soft golden sunrise",
+        "lighting": "Moody blue nighttime lighting contrasted with warm station lamps. Soft golden light during the reunion and final scene.",
+        "cameraLanguage": "Cinematic wide establishing shots, intimate emotional close-ups, low-angle dog perspectives, slow camera push-ins, shallow depth of field, dramatic vertical composition",
+        "negativePrompt": "blurry, low quality, low resolution, cartoon, illustration, unrealistic dog anatomy, extra legs, deformed paws, inconsistent character appearance, duplicate characters, text, subtitles, watermark, logo, oversaturated colors",
+        "referenceNotes": "Maintain strict visual consistency for Milo, Nora, and Arun throughout all scenes. Milo must always be the same golden retriever with the same golden coat and red collar.",
+        "additionalNotes": "Every scene should look like a frame from the same cinematic film. Maintain the same railway station, platform nine, train design, and character appearances. Compose important subjects within the central vertical frame."
+      },
+      "characterProfiles": [
+        {
+          "id": "char_01",
+          "name": "Milo",
+          "appearance": "A beautiful five-year-old golden retriever with warm honey-golden fur, expressive dark brown eyes, floppy ears, and a gentle face.",
+          "clothing": "A simple worn red leather collar with a small round silver tag.",
+          "distinguishingFeatures": "Golden coat, dark brown eyes, red collar, small silver identification tag.",
+          "consistencyNotes": "Always preserve Milo's golden coat, face, body proportions, floppy ears, and red collar. His fur may become wet or slightly dirty during rainy scenes."
+        },
+        {
+          "id": "char_02",
+          "name": "Nora",
+          "appearance": "A 72-year-old woman with a kind, gentle face, soft wrinkles, silver-white hair tied in a neat low bun, and warm brown eyes.",
+          "clothing": "A long beige wool coat, a burgundy knitted scarf, dark trousers, and comfortable brown shoes.",
+          "distinguishingFeatures": "Silver-white hair, burgundy scarf, gentle smile, wooden walking cane during her return.",
+          "consistencyNotes": "Preserve Nora's facial features, hairstyle, age, beige coat, and burgundy scarf in every appearance."
+        },
+        {
+          "id": "char_03",
+          "name": "Arun",
+          "appearance": "A 45-year-old railway station cleaner with a kind face, short black hair, a neatly trimmed moustache, and medium brown skin.",
+          "clothing": "A faded dark green railway maintenance jacket, dark trousers, and black work shoes.",
+          "distinguishingFeatures": "Short black hair, moustache, green jacket, gentle expression.",
+          "consistencyNotes": "Maintain Arun's appearance and clothing throughout all scenes."
+        }
+      ],
+      "narrationProfile": {
+        "defaultVoice": "af_bella",
+        "defaultSpeed": 1,
+        "defaultEmotion": "emotional",
+        "language": "en",
+        "globalInstructions": "Use natural, cinematic English storytelling narration. Begin with a mysterious and curiosity-driven hook. Build emotional warmth gradually. Speak gently during the flashback, create anticipation when the returning train arrives, and deliver the reunion with genuine emotion. Use natural pauses after important lines. Avoid exaggerated acting. Target approximately two minutes of narration."
+      },
+      "musicProfile": {
+        "style": "Original cinematic orchestral ambient soundtrack",
+        "mood": "Mysterious and lonely at the beginning, warm and emotional in the middle, deeply hopeful and uplifting at the ending",
+        "intensity": "medium",
+        "soundDesignNotes": "Begin with soft piano, distant train sounds, and subtle railway ambience. Introduce gentle strings as Milo's story unfolds. Use soft rain and distant thunder during the flashback. Gradually build emotional strings when the returning train arrives. At the reunion, introduce a warm orchestral rise. End with peaceful piano and gentle station ambience. Keep music below narration volume. Use original or properly licensed music without active Content ID claims."
+      },
+      "globalInstructions": "This is one continuous emotional cinematic story. Preserve the original story and narration. Maintain strict character consistency for Milo, Nora, and Arun. Use the same railway station and platform nine throughout. The story should progress from lonely nighttime scenes to a warm emotional reunion. Do not add new main characters or change the story. All images must be composed vertically in 9:16. Milo must behave like a realistic golden retriever. Narration should be emotionally engaging and clearly understandable. Music must remain below narration. The final scene should feel heartwarming, peaceful, and emotionally satisfying.",
+      "scenes": [
+        {
+          "number": 1,
+          "id": "scene_01",
+          "title": "317 Nights",
+          "originalNarration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+          "productionNarration": "For 317 nights, a golden dog waited at Platform Nine. Nobody knew what he was waiting for.",
+          "emotion": "mysterious, emotional",
+          "visualPrompt": "A cinematic photorealistic vertical establishing shot of an old railway station at midnight. A lonely golden retriever with warm honey-golden fur and a worn red leather collar sits quietly on an empty wooden bench near platform number nine. Rain falls outside the station roof. A distant train light glows faintly in the darkness. Moody blue atmosphere, warm amber station lamps, realistic wet floor reflections, cinematic depth of field, 9:16 composition.",
+          "negativePrompt": "daylight, crowded station, multiple dogs, different dog breed, missing red collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Start with a strong visual hook. Slowly push toward Milo sitting alone. Establish mystery immediately."
+        },
+        {
+          "number": 2,
+          "id": "scene_02",
+          "title": "The Daily Wait",
+          "originalNarration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+          "productionNarration": "Every evening, he watched the trains arrive and depart, searching every face for someone who never appeared.",
+          "emotion": "lonely, longing",
+          "visualPrompt": "A cinematic side view of the same golden retriever sitting beside the yellow safety line at platform nine. A passenger train slowly moves behind him while blurred passengers walk past. Milo keeps looking toward the arriving train doors with hopeful dark brown eyes. His red collar and silver tag are clearly visible. Warm station lights contrast with the cool blue night, realistic motion blur, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, multiple dogs, missing collar, aggressive behavior, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Use slow motion for the passing train while keeping Milo visually still."
+        },
+        {
+          "number": 3,
+          "id": "scene_03",
+          "title": "The Kind Stranger",
+          "originalNarration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+          "productionNarration": "A station cleaner named Arun noticed him and began bringing food, wondering why the little traveler stayed.",
+          "emotion": "gentle, compassionate",
+          "visualPrompt": "A cinematic medium shot of Arun, a 45-year-old railway cleaner with short black hair, a trimmed moustache, and faded dark green maintenance jacket, kneeling beside Milo at platform nine. Arun gently places a small bowl of food in front of the golden retriever. Milo looks up gratefully. Warm overhead station lighting, realistic railway benches and tiled floor, intimate emotional composition, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, different man, modern luxury station, cartoon, distorted anatomy, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Introduce Arun as a kind supporting character. Keep the interaction natural and believable."
+        },
+        {
+          "number": 4,
+          "id": "scene_04",
+          "title": "The Empty Bench",
+          "originalNarration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+          "productionNarration": "Milo slept beneath the same bench, waking whenever a train whistle echoed through the cold night.",
+          "emotion": "sad, quiet",
+          "visualPrompt": "A cinematic low-angle close shot beneath an old wooden railway bench. Milo, the same golden retriever with red collar, rests on the cold tiled floor with his head on his paws. His ears lift as a distant train approaches. Empty platform nine stretches into the background. Blue nighttime lighting, soft amber lamps, subtle rain reflections, realistic fur detail, cinematic photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, bright daylight, crowded platform, missing collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Create a quiet emotional moment. Use distant train whistle sound design."
+        },
+        {
+          "number": 5,
+          "id": "scene_05",
+          "title": "The Memory",
+          "originalNarration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+          "productionNarration": "But this was not just a station to Milo. It was the last place he had seen his beloved Nora.",
+          "emotion": "nostalgic, emotional",
+          "visualPrompt": "A soft cinematic flashback at platform nine during a peaceful golden afternoon. Nora, a 72-year-old woman with silver-white hair in a low bun, beige wool coat, and burgundy scarf, smiles warmly while kneeling to hug Milo, the same golden retriever wearing his red collar. Sunlight streams through the station roof. A train waits in the background. Warm nostalgic color grading, realistic expressions, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, nighttime, missing red collar, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Clearly signal a warm memory through golden lighting and a softer cinematic look."
+        },
+        {
+          "number": 6,
+          "id": "scene_06",
+          "title": "The Promise",
+          "originalNarration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+          "productionNarration": "Nora was leaving for a long hospital treatment. Before boarding, she whispered, 'Wait for me, my brave boy.'",
+          "emotion": "tender, heartbreaking",
+          "visualPrompt": "An intimate cinematic close-up of Nora gently holding Milo's face with both hands beside a waiting passenger train. Nora wears her beige wool coat and burgundy scarf, her silver hair neatly tied in a low bun. Her eyes are slightly wet with emotion. Milo looks directly into her eyes, wearing his familiar red collar. Soft golden afternoon light, realistic skin and fur details, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, exaggerated crying, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "This is the emotional promise that explains the dog's behavior. Allow a natural pause after the dialogue."
+        },
+        {
+          "number": 7,
+          "id": "scene_07",
+          "title": "The Train Leaves",
+          "originalNarration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+          "productionNarration": "The doors closed. Nora waved through the window, and Milo watched until the train disappeared.",
+          "emotion": "heartbreaking, helpless",
+          "visualPrompt": "A cinematic view of a passenger train slowly departing platform nine. Nora is visible through a train window waving sadly, wearing her beige coat and burgundy scarf. Milo stands near the platform edge, watching her disappear, his red collar visible. The train moves into a hazy distance while the dog remains alone. Warm afternoon light fading into cooler shadows, photorealistic cinematic storytelling, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, multiple trains, unsafe dog behavior near train, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Use a slow camera pull-back as the train leaves. Do not show Milo crossing the safety line."
+        },
+        {
+          "number": 8,
+          "id": "scene_08",
+          "title": "Days Become Months",
+          "originalNarration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+          "productionNarration": "One day became a week. A week became months. Still, Milo returned to the very same spot.",
+          "emotion": "lonely, faithful",
+          "visualPrompt": "A cinematic visual montage represented in one photorealistic frame: Milo sitting in the same place at platform nine while the atmosphere suggests changing seasons outside the station windows. Rainy evenings, misty mornings, and falling autumn leaves are subtly reflected in the environment. The golden retriever remains consistent with the same red collar. Moody cinematic lighting, emotional atmosphere, vertical 9:16.",
+          "negativePrompt": "multiple dogs, different dog breed, missing collar, fantasy effects, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Convey the passage of time using weather and lighting transitions during editing."
+        },
+        {
+          "number": 9,
+          "id": "scene_09",
+          "title": "Arun's Promise",
+          "originalNarration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+          "productionNarration": "Arun became his friend. Every night, he brought warm food and sat beside him in silence.",
+          "emotion": "warm, compassionate",
+          "visualPrompt": "A cinematic nighttime shot of Arun sitting beside Milo on a railway bench at platform nine. Arun wears his faded dark green maintenance jacket and gently rests one hand on Milo's back. A small food container sits nearby. Milo leans against him while looking toward the tracks. Warm amber station light, quiet blue shadows, heartfelt realistic storytelling, photorealistic, vertical 9:16.",
+          "negativePrompt": "different man, different dog, crowded station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Show the friendship through a quiet gesture rather than exaggerated action."
+        },
+        {
+          "number": 10,
+          "id": "scene_10",
+          "title": "The Coldest Night",
+          "originalNarration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+          "productionNarration": "Then winter arrived. One freezing night, Milo looked weaker, but he still refused to leave platform nine.",
+          "emotion": "worried, heartbreaking",
+          "visualPrompt": "A cinematic winter night at the same railway platform. Light snow and cold rain blow through the station entrance. Milo, the same golden retriever with red collar, curls beneath the familiar bench, looking tired but alert. His golden fur is slightly damp. Arun approaches carrying a warm blanket. Blue-gray cold atmosphere, warm distant station lamps, realistic fur and environmental details, emotional photorealism, vertical 9:16.",
+          "negativePrompt": "severely injured dog, blood, different dog, different station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Build concern for Milo without depicting injury or cruelty."
+        },
+        {
+          "number": 11,
+          "id": "scene_11",
+          "title": "A Familiar Whistle",
+          "originalNarration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+          "productionNarration": "Then, one evening, a familiar train whistle echoed across the station. Milo suddenly lifted his head.",
+          "emotion": "anticipation, suspense",
+          "visualPrompt": "An intense cinematic close-up of Milo suddenly lifting his head and raising his ears at platform nine. His expressive dark brown eyes look toward the tracks. The same red collar and silver tag are clearly visible. A distant train headlight glows through the dark station entrance. Arun stands in the background watching. Dramatic shallow depth of field, suspenseful blue and amber lighting, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, missing collar, daylight, cartoon, distorted eyes, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Create a suspenseful pause before the train arrives. Focus on Milo's eyes and ears."
+        },
+        {
+          "number": 12,
+          "id": "scene_12",
+          "title": "Someone Returns",
+          "originalNarration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+          "productionNarration": "The train stopped. Slowly, an elderly woman stepped down, leaning on a wooden cane, wearing a familiar burgundy scarf.",
+          "emotion": "hopeful, emotional",
+          "visualPrompt": "A cinematic slow-motion shot of Nora stepping down carefully from a passenger train onto platform nine. She is 72 years old, with silver-white hair tied in a low bun, wearing her familiar beige wool coat and burgundy knitted scarf, holding a simple wooden walking cane. Warm train doorway light illuminates her face. The station is quiet and atmospheric. Photorealistic emotional storytelling, vertical 9:16.",
+          "negativePrompt": "different woman, different scarf, young woman, multiple elderly women, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Reveal Nora gradually. Show the burgundy scarf before fully revealing her face."
+        },
+        {
+          "number": 13,
+          "id": "scene_13",
+          "title": "The Moment of Recognition",
+          "originalNarration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+          "productionNarration": "Milo froze. His eyes widened. Then he recognized her. The woman he had waited for was finally home.",
+          "emotion": "surprised, joyful",
+          "visualPrompt": "An emotional cinematic close-up of Milo standing completely still at platform nine, staring toward Nora. His dark brown eyes become bright with recognition, his ears lift, and his tail begins to move. In the softly blurred background, Nora smiles through tears. Preserve Milo's golden fur and red collar. Warm golden light begins to replace the cold blue station atmosphere, photorealistic, vertical 9:16.",
+          "negativePrompt": "different dog, exaggerated cartoon expression, missing red collar, different woman, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Hold the recognition moment briefly before Milo starts running."
+        },
+        {
+          "number": 14,
+          "id": "scene_14",
+          "title": "The Reunion",
+          "originalNarration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+          "productionNarration": "He ran toward her. Nora dropped to her knees, opened her arms, and whispered, 'I came back, my brave boy.'",
+          "emotion": "deeply emotional, joyful",
+          "visualPrompt": "A breathtaking cinematic emotional reunion on platform nine. Milo, the same golden retriever with a red collar, runs toward Nora. Nora kneels carefully with her wooden cane beside her, opening her arms and smiling through tears. Milo reaches her and gently presses his head against her chest. Her beige wool coat and burgundy scarf are clearly visible. Warm golden station light, realistic emotional expressions, detailed fur, cinematic photorealism, vertical 9:16.",
+          "negativePrompt": "different dog, different woman, aggressive dog, unrealistic anatomy, extra limbs, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "This is the emotional climax. Use a slow-motion embrace and let the music rise naturally."
+        },
+        {
+          "number": 15,
+          "id": "scene_15",
+          "title": "Never Forgotten",
+          "originalNarration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+          "productionNarration": "For 317 nights, he had waited. And now, he never had to wait again. Some promises are remembered with the heart.",
+          "emotion": "peaceful, heartwarming, inspiring",
+          "visualPrompt": "A beautiful cinematic final scene at platform nine during a peaceful golden sunrise. Nora sits on the familiar railway bench with Milo resting happily beside her, his head gently on her lap. Nora strokes his golden fur while smiling. Arun watches them from a short distance with a warm relieved expression. Soft golden sunlight enters the station, illuminating the floor and their faces. The railway platform feels peaceful and welcoming. Emotional photorealism, warm cinematic color grading, vertical 9:16.",
+          "negativePrompt": "nighttime, storm, different dog, different woman, crowded station, cartoon, text, watermark",
+          "durationHintSeconds": 8,
+          "notes": "Finish with a slow camera pull-back. Leave a short visual pause for the final emotional line."
+        }
+      ]
+    },
+    "approvedAt": "2026-11-23T12:29:51.410Z",
+    "approvedByUser": true
+  }
+}

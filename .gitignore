@@ -1,0 +1,22 @@
+node_modules/
+dist/
+build/
+.out/
+out/
+.env
+.env.local
+*.log
+.DS_Store
+
+# Local project media (keep structure, ignore large binaries)
+projects/**/frames/
+projects/**/audio/
+projects/**/exports/
+projects/**/references/
+projects/**/music/
+projects/**/sound-effects/
+!projects/**/.gitkeep
+
+# Remotion
+story-video-engine/out/
+story-video-engine/.remotion/

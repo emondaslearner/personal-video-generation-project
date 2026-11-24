@@ -1,0 +1,848 @@
+{
+  "projectId": "project_e11dd228-29c",
+  "title": "The Last Voice Note",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "assetMode": "render",
+  "scenes": [
+    {
+      "id": "scene_01",
+      "number": 1,
+      "title": "The Call I Never Answered",
+      "originalNarration": "The last time she called me, I was too busy to answer. Three days later, I would have given anything to hear her voice again. Her name was Emma. And she was the person I thought I would grow old with.",
+      "narration": "The last time she called me, I was too busy to answer. Three days later, I would have given anything to hear her voice again. Her name was Emma. And she was the person I thought I would grow old with.",
+      "emotion": "mysterious, heartbreaking",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_01_4ebfb132.png",
+        "prompt": "A cinematic photorealistic close-up of a young man, Daniel, sitting alone in a dark modern apartment at night. He holds a smartphone in one hand, staring at an unanswered call notification. His deep brown eyes look exhausted and filled with regret. Rain runs down the window behind him. Cool midnight blue lighting, subtle warm lamp in the background, premium romantic drama cinematography, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natu.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 323,
+      "subtitle": {
+        "text": "The last time she called me, I was too busy to answer. Three days later, I would have given anything to hear her voice again. Her name was Emma. And she was the person I thought I would grow old with.",
+        "startFrame": 0,
+        "endFrame": 323
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_01_c3dd9ce2.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 10.759,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:50:34.034Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_02",
+      "number": 2,
+      "title": "Before Everything Changed",
+      "originalNarration": "But this story did not begin with heartbreak. It began on an ordinary rainy afternoon, in a little coffee shop where I accidentally took the last empty seat. I had no idea that a stranger sitting across from me would become my entire world.",
+      "narration": "But this story did not begin with heartbreak. It began on an ordinary rainy afternoon, in a little coffee shop where I accidentally took the last empty seat. I had no idea that a stranger sitting across from me would become my entire world.",
+      "emotion": "nostalgic, gentle",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_02_8f5dfe89.png",
+        "prompt": "A cinematic widescreen establishing shot of a small cozy European-style coffee shop on a rainy afternoon. Daniel, a 29-year-old man with short wavy dark brown hair and subtle stubble, sits at a wooden table near a large rain-covered window. Across from him sits Emma, a 27-year-old woman with long chestnut-brown hair, hazel-brown eyes, and a delicate silver star necklace. Warm amber lights, coffee cups, soft reflections, romantic photorealism, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinem.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 450,
+      "subtitle": {
+        "text": "But this story did not begin with heartbreak. It began on an ordinary rainy afternoon, in a little coffee shop where I accidentally took the last empty seat. I had no idea that a stranger sitting across from me would become my entire world.",
+        "startFrame": 0,
+        "endFrame": 450
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_02_eee04dba.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 14.979,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:51:23.418Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_03",
+      "number": 3,
+      "title": "The First Conversation",
+      "originalNarration": "She smiled and asked if I was waiting for someone. I said no, although I suddenly wished I had a better answer. We started talking about coffee, music, and the strange things people believe in. Somehow, a simple conversation lasted almost three hours.",
+      "narration": "She smiled and asked if I was waiting for someone. I said no, although I suddenly wished I had a better answer. We started talking about coffee, music, and the strange things people believe in. Somehow, a simple conversation lasted almost three hours.",
+      "emotion": "sweet, romantic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_03_11150c31.png",
+        "prompt": "An intimate cinematic two-shot of Daniel and Emma sitting across from each other in the same cozy coffee shop, smiling naturally during their first conversation. Emma gently holds a ceramic coffee cup. Daniel looks slightly nervous but genuinely happy. Rainy window behind them, warm natural expressions, soft golden lighting, shallow depth of field, photorealistic romantic film still, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen c.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 448,
+      "subtitle": {
+        "text": "She smiled and asked if I was waiting for someone. I said no, although I suddenly wished I had a better answer. We started talking about coffee, music, and the strange things people believe in. Somehow, a simple conversation lasted almost three hours.",
+        "startFrame": 0,
+        "endFrame": 448
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_03_335f05fd.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 14.929,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:52:00.656Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_04",
+      "number": 4,
+      "title": "A Reason to Meet Again",
+      "originalNarration": "Before leaving, she wrote her number on the back of a receipt. She told me not to lose it. I still have that little piece of paper. It is faded now, but I have never had the courage to throw it away.",
+      "narration": "Before leaving, she wrote her number on the back of a receipt. She told me not to lose it. I still have that little piece of paper. It is faded now, but I have never had the courage to throw it away.",
+      "emotion": "romantic, nostalgic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_04_a2104de3.png",
+        "prompt": "A cinematic close-up of Emma's hand sliding a small handwritten receipt across a wooden coffee shop table toward Daniel. Her silver star pendant is subtly visible. Daniel's hand reaches to take it. Two half-empty coffee cups and warm window light frame the scene. Shallow depth of field, delicate emotional detail, photorealistic, widescreen 16:9. No legible writing on the receipt. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-blee.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 308,
+      "subtitle": {
+        "text": "Before leaving, she wrote her number on the back of a receipt. She told me not to lose it. I still have that little piece of paper. It is faded now, but I have never had the courage to throw it away.",
+        "startFrame": 0,
+        "endFrame": 308
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_04_f9501aa3.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 10.259,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:52:26.735Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_05",
+      "number": 5,
+      "title": "Little Things",
+      "originalNarration": "We began meeting every weekend. She remembered how I liked my coffee. I remembered that she hated being alone during thunderstorms. She sent me songs when words were not enough. And slowly, without either of us noticing, we became part of each other's everyday lives.",
+      "narration": "We began meeting every weekend. She remembered how I liked my coffee. I remembered that she hated being alone during thunderstorms. She sent me songs when words were not enough. And slowly, without either of us noticing, we became part of each other's everyday lives.",
+      "emotion": "warm, affectionate",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_05_d7650921.png",
+        "prompt": "A cinematic montage-style widescreen frame of Daniel and Emma sharing a peaceful weekend together in a small neighborhood coffee shop. Daniel places her favorite coffee on the table while Emma smiles with genuine affection. Their body language feels comfortable and familiar. Warm sunlight, natural skin textures, subtle film grain, romantic drama aesthetic, photorealistic, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 482,
+      "subtitle": {
+        "text": "We began meeting every weekend. She remembered how I liked my coffee. I remembered that she hated being alone during thunderstorms. She sent me songs when words were not enough. And slowly, without either of us noticing, we became part of each other's everyday lives.",
+        "startFrame": 0,
+        "endFrame": 482
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_05_099b5371.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 16.035,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:53:02.400Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_06",
+      "number": 6,
+      "title": "The City Was Ours",
+      "originalNarration": "We walked through streets without knowing where we were going. We shared cheap dinners, missed buses, and laughed at jokes nobody else understood. I did not need expensive gifts or perfect days. When Emma was beside me, even an ordinary Tuesday felt beautiful.",
+      "narration": "We walked through streets without knowing where we were going. We shared cheap dinners, missed buses, and laughed at jokes nobody else understood. I did not need expensive gifts or perfect days. When Emma was beside me, even an ordinary Tuesday felt beautiful.",
+      "emotion": "joyful, romantic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_06_b8a195ef.png",
+        "prompt": "A cinematic widescreen evening shot of Daniel and Emma walking hand in hand along a beautiful city street illuminated by warm shop lights. Emma laughs while looking at Daniel. Daniel smiles back. The street is slightly wet after rain, creating golden reflections. Natural candid romantic chemistry, shallow depth of field, cinematic photorealism, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealis.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 451,
+      "subtitle": {
+        "text": "We walked through streets without knowing where we were going. We shared cheap dinners, missed buses, and laughed at jokes nobody else understood. I did not need expensive gifts or perfect days. When Emma was beside me, even an ordinary Tuesday felt beautiful.",
+        "startFrame": 0,
+        "endFrame": 451
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_06_fb23c3b0.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 15.027,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:53:34.424Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_07",
+      "number": 7,
+      "title": "The Promise",
+      "originalNarration": "One evening, sitting beside the river, she asked me a question. 'Do you think people can stay together forever?' I laughed and told her I did not believe in forever. Then I looked into her eyes and said, 'But I want to try forever with you.'",
+      "narration": "One evening, sitting beside the river, she asked me a question. 'Do you think people can stay together forever?' I laughed and told her I did not believe in forever. Then I looked into her eyes and said, 'But I want to try forever with you.'",
+      "emotion": "tender, deeply romantic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_07_5c11dc29.png",
+        "prompt": "A cinematic widescreen romantic scene beside a quiet river at sunset. Daniel and Emma sit close together on a wooden bench, their shoulders touching. Emma looks into Daniel's eyes with a hopeful expression. Daniel gently holds her hand. The sky glows with golden orange and muted pink, water reflecting the sunset. Photorealistic romantic drama, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 384,
+      "subtitle": {
+        "text": "One evening, sitting beside the river, she asked me a question. 'Do you think people can stay together forever?' I laughed and told her I did not believe in forever. Then I looked into her eyes and said, 'But I want to try forever with you.'",
+        "startFrame": 0,
+        "endFrame": 384
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_07_8d0bcc34.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 12.787,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:53:58.597Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_08",
+      "number": 8,
+      "title": "Our Little World",
+      "originalNarration": "A year passed. We had our favorite restaurant, our favorite song, and a tiny apartment filled with memories. Emma left little notes around the house. Sometimes they were reminders to buy milk. Sometimes they simply said, 'I love you.'",
+      "narration": "A year passed. We had our favorite restaurant, our favorite song, and a tiny apartment filled with memories. Emma left little notes around the house. Sometimes they were reminders to buy milk. Sometimes they simply said, 'I love you.'",
+      "emotion": "peaceful, affectionate",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_08_4b239394.png",
+        "prompt": "A warm cinematic interior of a small comfortable apartment shared by Daniel and Emma. The couple prepares dinner together in a modest kitchen, laughing naturally. A few small handwritten notes are attached to the refrigerator, but no writing is legible. Warm pendant lighting, homey details, intimate everyday romance, photorealistic widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism,.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 411,
+      "subtitle": {
+        "text": "A year passed. We had our favorite restaurant, our favorite song, and a tiny apartment filled with memories. Emma left little notes around the house. Sometimes they were reminders to buy milk. Sometimes they simply said, 'I love you.'",
+        "startFrame": 0,
+        "endFrame": 411
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_08_e3284c00.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 13.697,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:54:24.168Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_09",
+      "number": 9,
+      "title": "The Opportunity",
+      "originalNarration": "Then I received an offer that I had wanted for years. A better job in another city, a higher salary, and a chance to build the future I always dreamed about. I thought Emma would be happy. Instead, she became strangely quiet.",
+      "narration": "Then I received an offer that I had wanted for years. A better job in another city, a higher salary, and a chance to build the future I always dreamed about. I thought Emma would be happy. Instead, she became strangely quiet.",
+      "emotion": "uncertain, tense",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_09_07111623.png",
+        "prompt": "A cinematic medium shot of Daniel sitting at the apartment dining table looking at a job offer on his laptop. Emma stands in the background near the kitchen, her expression uncertain and thoughtful. Warm apartment lighting gradually contrasts with cool shadows near the window. Natural expressions, premium photorealistic drama, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emot.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 376,
+      "subtitle": {
+        "text": "Then I received an offer that I had wanted for years. A better job in another city, a higher salary, and a chance to build the future I always dreamed about. I thought Emma would be happy. Instead, she became strangely quiet.",
+        "startFrame": 0,
+        "endFrame": 376
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_09_f73f9d1a.wav",
+        "voice": "am_adam",
+        "speed": 1.05,
+        "durationSeconds": 12.518,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:54:50.210Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_10",
+      "number": 10,
+      "title": "The Distance",
+      "originalNarration": "I told her it was only temporary. Six months, maybe a little longer. We could visit every weekend. We could call every night. I promised that distance would never change what we had. She wanted to believe me. I wanted to believe myself.",
+      "narration": "I told her it was only temporary. Six months, maybe a little longer. We could visit every weekend. We could call every night. I promised that distance would never change what we had. She wanted to believe me. I wanted to believe myself.",
+      "emotion": "sad, uncertain",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_10_4cd7941b.png",
+        "prompt": "A cinematic widescreen scene of Daniel and Emma sitting opposite each other at their apartment dining table. Daniel gently reaches across the table toward Emma, trying to reassure her. Emma looks down at their hands, visibly worried. A packed suitcase sits quietly near the doorway. Cool evening light mixes with warm indoor lighting, photorealistic, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photore.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 410,
+      "subtitle": {
+        "text": "I told her it was only temporary. Six months, maybe a little longer. We could visit every weekend. We could call every night. I promised that distance would never change what we had. She wanted to believe me. I wanted to believe myself.",
+        "startFrame": 0,
+        "endFrame": 410
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_10_0a84ba1e.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 13.656,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:55:19.456Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_11",
+      "number": 11,
+      "title": "The Goodbye",
+      "originalNarration": "The day I left, Emma walked me to the railway station. She held my hand until the final announcement. Before I boarded, she whispered, 'Please don't become a stranger.' I kissed her forehead and promised I never would.",
+      "narration": "The day I left, Emma walked me to the railway station. She held my hand until the final announcement. Before I boarded, she whispered, 'Please don't become a stranger.' I kissed her forehead and promised I never would.",
+      "emotion": "heartbreaking, tender",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_11_e399b452.png",
+        "prompt": "A cinematic widescreen farewell at a modern railway station. Daniel stands beside an open passenger train door holding a travel bag. Emma wears a soft cream coat and her silver star necklace. She holds Daniel's hand with a sad expression. They stand close together under soft natural station lighting. Emotional realistic expressions, premium romantic film still, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cine.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 364,
+      "subtitle": {
+        "text": "The day I left, Emma walked me to the railway station. She held my hand until the final announcement. Before I boarded, she whispered, 'Please don't become a stranger.' I kissed her forehead and promised I never would.",
+        "startFrame": 0,
+        "endFrame": 364
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_11_54624afb.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 12.11,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:55:50.017Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_12",
+      "number": 12,
+      "title": "Two Different Cities",
+      "originalNarration": "At first, everything worked. We called every night and sent photographs of our days. She showed me the sunset outside our apartment. I showed her the crowded streets of my new city. We were far apart, but we still felt close.",
+      "narration": "At first, everything worked. We called every night and sent photographs of our days. She showed me the sunset outside our apartment. I showed her the crowded streets of my new city. We were far apart, but we still felt close.",
+      "emotion": "hopeful, nostalgic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_12_91df3671.png",
+        "prompt": "A cinematic split-composition widescreen scene showing Daniel in a small modern apartment in a new city speaking to Emma through a video call on his phone. On the opposite side, Emma sits by the familiar apartment window at sunset, smiling at her phone. Their expressions are warm and connected. Realistic screens without legible text, soft cinematic lighting, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinemat.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 391,
+      "subtitle": {
+        "text": "At first, everything worked. We called every night and sent photographs of our days. She showed me the sunset outside our apartment. I showed her the crowded streets of my new city. We were far apart, but we still felt close.",
+        "startFrame": 0,
+        "endFrame": 391
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_12_d24280f1.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 13.027,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:56:21.459Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_13",
+      "number": 13,
+      "title": "Busy Becoming Successful",
+      "originalNarration": "But slowly, my new life became busier. Meetings replaced phone calls. Deadlines replaced long conversations. I started saying, 'I'll call you later.' And later became tomorrow. Tomorrow became another day. I never noticed how many little goodbyes were hiding inside those words.",
+      "narration": "But slowly, my new life became busier. Meetings replaced phone calls. Deadlines replaced long conversations. I started saying, 'I'll call you later.' And later became tomorrow. Tomorrow became another day. I never noticed how many little goodbyes were hiding inside those words.",
+      "emotion": "regretful, melancholic",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_13_30cc0d77.png",
+        "prompt": "A cinematic widescreen office scene at night. Daniel sits alone at a desk surrounded by a laptop, paperwork, and a glowing desk lamp. His smartphone lies face-up beside him with an incoming call. He glances toward it while continuing to work. The city skyline glows through the dark window. Cool blue and muted amber lighting, realistic office environment, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high deta.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 502,
+      "subtitle": {
+        "text": "But slowly, my new life became busier. Meetings replaced phone calls. Deadlines replaced long conversations. I started saying, 'I'll call you later.' And later became tomorrow. Tomorrow became another day. I never noticed how many little goodbyes were hiding inside those words.",
+        "startFrame": 0,
+        "endFrame": 502
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_13_5496c8ac.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 16.733,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:56:59.011Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_14",
+      "number": 14,
+      "title": "The Silence Between Us",
+      "originalNarration": "Emma never asked for expensive things. She only wanted my time. But I kept telling myself that everything I was doing was for our future. I did not understand that while I was building a future for us, she was losing me in the present.",
+      "narration": "Emma never asked for expensive things. She only wanted my time. But I kept telling myself that everything I was doing was for our future. I did not understand that while I was building a future for us, she was losing me in the present.",
+      "emotion": "painful, reflective",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_14_4fefe25e.png",
+        "prompt": "A cinematic close-up of Emma sitting alone on the sofa in their familiar apartment at night. She holds her phone and looks at an unanswered call screen, her hazel-brown eyes filled with disappointment. The room is quiet, with an empty chair beside her and a warm lamp in the background. Muted blue-gray shadows, natural emotional expression, photorealistic, widescreen 16:9. . Character consistency: Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy,.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 432,
+      "subtitle": {
+        "text": "Emma never asked for expensive things. She only wanted my time. But I kept telling myself that everything I was doing was for our future. I did not understand that while I was building a future for us, she was losing me in the present.",
+        "startFrame": 0,
+        "endFrame": 432
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_14_2ff2ed96.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 14.389,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:57:26.651Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_15",
+      "number": 15,
+      "title": "The Last Normal Conversation",
+      "originalNarration": "One night, she asked whether I was still happy with her. I said, 'Of course. Why would you ask that?' She replied, 'Nothing. I just miss the person who used to stay awake just to talk to me.' I had no answer.",
+      "narration": "One night, she asked whether I was still happy with her. I said, 'Of course. Why would you ask that?' She replied, 'Nothing. I just miss the person who used to stay awake just to talk to me.' I had no answer.",
+      "emotion": "deeply emotional, uncomfortable",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_15_4ae48c21.png",
+        "prompt": "A cinematic widescreen video-call composition showing Daniel in his dim apartment and Emma in her quiet room. Daniel looks distracted and tired while Emma looks directly into the camera with gentle sadness. Both characters maintain their established appearance. Cool night lighting, intimate framing, natural skin textures, realistic emotional expressions, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic p.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 334,
+      "subtitle": {
+        "text": "One night, she asked whether I was still happy with her. I said, 'Of course. Why would you ask that?' She replied, 'Nothing. I just miss the person who used to stay awake just to talk to me.' I had no answer.",
+        "startFrame": 0,
+        "endFrame": 334
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_15_5e8b4507.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 11.115,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:57:47.182Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_16",
+      "number": 16,
+      "title": "The Unanswered Call",
+      "originalNarration": "Then came the night of her final call. I was preparing an important presentation. Her name appeared on my screen. I looked at it, smiled, and thought I would call her after finishing. I did not know that this was the last time her name would appear.",
+      "narration": "Then came the night of her final call. I was preparing an important presentation. Her name appeared on my screen. I looked at it, smiled, and thought I would call her after finishing. I did not know that this was the last time her name would appear.",
+      "emotion": "tense, ominous",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_16_d142d965.png",
+        "prompt": "A dramatic cinematic close-up of Daniel's smartphone vibrating on a desk during a late-night work session. The screen glows with an incoming call, but no readable name or text is visible. Daniel is softly blurred in the background, focused on his laptop. Cool dark blue lighting, a small warm desk lamp, realistic details, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 392,
+      "subtitle": {
+        "text": "Then came the night of her final call. I was preparing an important presentation. Her name appeared on my screen. I looked at it, smiled, and thought I would call her after finishing. I did not know that this was the last time her name would appear.",
+        "startFrame": 0,
+        "endFrame": 392
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_16_7ebf9695.wav",
+        "voice": "am_adam",
+        "speed": 1.05,
+        "durationSeconds": 13.051,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:58:22.659Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_17",
+      "number": 17,
+      "title": "Three Days Later",
+      "originalNarration": "The next morning, I sent her a message. No reply. I called again that evening. Nothing. On the third day, I finally received a call from an unfamiliar number. A quiet voice asked whether I was Daniel, Emma's emergency contact.",
+      "narration": "The next morning, I sent her a message. No reply. I called again that evening. Nothing. On the third day, I finally received a call from an unfamiliar number. A quiet voice asked whether I was Daniel, Emma's emergency contact.",
+      "emotion": "anxious, suspenseful",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_17_b9f49e3f.png",
+        "prompt": "A cinematic widescreen shot of Daniel standing alone in a modern apartment hallway, holding his smartphone against his ear. His face changes from confusion to sudden fear. The background is softly blurred and the lighting is cold and desaturated. His silver wristwatch catches a small reflection. Realistic human expression, cinematic suspense, photorealistic, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 426,
+      "subtitle": {
+        "text": "The next morning, I sent her a message. No reply. I called again that evening. Nothing. On the third day, I finally received a call from an unfamiliar number. A quiet voice asked whether I was Daniel, Emma's emergency contact.",
+        "startFrame": 0,
+        "endFrame": 426
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_17_0d388b85.wav",
+        "voice": "am_adam",
+        "speed": 0.94,
+        "durationSeconds": 14.189,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:58:51.388Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_18",
+      "number": 18,
+      "title": "The Truth",
+      "originalNarration": "Emma had been in a serious accident while returning home from work. She had spent her final days in hospital. The nurse told me Emma had asked about me many times. But she had never wanted anyone to interrupt my work.",
+      "narration": "Emma had been in a serious accident while returning home from work. She had spent her final days in hospital. The nurse told me Emma had asked about me many times. But she had never wanted anyone to interrupt my work.",
+      "emotion": "devastating, heartbreaking",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_18_ac25dad4.png",
+        "prompt": "A cinematic widescreen hospital corridor with Daniel standing frozen near a quiet doorway. He holds his phone loosely in one hand, his eyes filled with shock and disbelief. Soft hospital lighting, pale walls, distant blurred medical staff, empty corridor, restrained emotional atmosphere, realistic photorealistic drama, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 372,
+      "subtitle": {
+        "text": "Emma had been in a serious accident while returning home from work. She had spent her final days in hospital. The nurse told me Emma had asked about me many times. But she had never wanted anyone to interrupt my work.",
+        "startFrame": 0,
+        "endFrame": 372
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_18_f804e539.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 12.382,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:59:26.265Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_19",
+      "number": 19,
+      "title": "The Empty Room",
+      "originalNarration": "I reached the hospital too late. Her room was empty. A nurse handed me a small envelope and her phone. I could barely hold them. Inside the envelope was the receipt from the coffee shop where we had first met.",
+      "narration": "I reached the hospital too late. Her room was empty. A nurse handed me a small envelope and her phone. I could barely hold them. Inside the envelope was the receipt from the coffee shop where we had first met.",
+      "emotion": "devastated, numb",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_19_293727ab.png",
+        "prompt": "A cinematic emotional scene inside a quiet hospital room after the patient has left. Daniel sits alone beside an empty hospital bed, holding a small envelope and an old smartphone. His face is pale with grief and disbelief. Soft daylight enters through the window, creating a lonely atmosphere. No patient visible, no graphic details, photorealistic, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 366,
+      "subtitle": {
+        "text": "I reached the hospital too late. Her room was empty. A nurse handed me a small envelope and her phone. I could barely hold them. Inside the envelope was the receipt from the coffee shop where we had first met.",
+        "startFrame": 0,
+        "endFrame": 366
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_19_b9d31217.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 12.178,
+        "status": "generated",
+        "generatedAt": "2026-11-23T14:59:55.498Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_20",
+      "number": 20,
+      "title": "The Last Voice Note",
+      "originalNarration": "On her phone, I found one unsent voice note. It was recorded on the night she called me. My hands trembled as I pressed play. Then I heard her voice again, softer than I remembered. And every second felt like a lifetime.",
+      "narration": "On her phone, I found one unsent voice note. It was recorded on the night she called me. My hands trembled as I pressed play. Then I heard her voice again, softer than I remembered. And every second felt like a lifetime.",
+      "emotion": "intense, heartbreaking",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_20_ef07967d.png",
+        "prompt": "An intimate cinematic close-up of Daniel sitting beside a hospital window, holding Emma's smartphone in both trembling hands. His thumb is about to play a saved voice recording. His eyes are wet with tears, his silver wristwatch visible. Soft natural daylight, shallow depth of field, muted colors, realistic hands and face, premium romantic drama, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinemati.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 369,
+      "subtitle": {
+        "text": "On her phone, I found one unsent voice note. It was recorded on the night she called me. My hands trembled as I pressed play. Then I heard her voice again, softer than I remembered. And every second felt like a lifetime.",
+        "startFrame": 0,
+        "endFrame": 369
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_20_deff8cff.wav",
+        "voice": "am_adam",
+        "speed": 1.05,
+        "durationSeconds": 12.296,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:00:18.477Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_21",
+      "number": 21,
+      "title": "What Emma Said",
+      "originalNarration": "Her voice said, 'Daniel, I know you are busy. I just wanted to tell you that I miss you. I miss our coffee, our walks, and the way you used to look at me. I am scared tonight. I wish you were here. I love you.'",
+      "narration": "Her voice said, 'Daniel, I know you are busy. I just wanted to tell you that I miss you. I miss our coffee, our walks, and the way you used to look at me. I am scared tonight. I wish you were here. I love you.'",
+      "emotion": "intimately heartbreaking",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_21_6f1c3c94.png",
+        "prompt": "A cinematic memory of Emma sitting alone near the window of their old apartment at night, recording a voice message on her smartphone. She wears a soft cream sweater and her delicate silver star pendant. Her long chestnut hair falls naturally over her shoulders. Her eyes look tired but loving. Gentle rain outside, warm lamp light, intimate realistic expression, photorealistic, widescreen 16:9. . Character consistency: Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin text.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 313,
+      "subtitle": {
+        "text": "Her voice said, 'Daniel, I know you are busy. I just wanted to tell you that I miss you. I miss our coffee, our walks, and the way you used to look at me. I am scared tonight. I wish you were here. I love you.'",
+        "startFrame": 0,
+        "endFrame": 313
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_21_e604d3ed.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 10.407,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:00:40.554Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_22",
+      "number": 22,
+      "title": "The Words I Never Heard",
+      "originalNarration": "Then she continued. 'I don't need a perfect future, Daniel. I just wanted more ordinary days with you. If you ever listen to this, please don't blame yourself. I only wish we had one more evening together.' I broke down before the recording ended.",
+      "narration": "Then she continued. 'I don't need a perfect future, Daniel. I just wanted more ordinary days with you. If you ever listen to this, please don't blame yourself. I only wish we had one more evening together.' I broke down before the recording ended.",
+      "emotion": "devastating, emotional",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_22_8c9c84ea.png",
+        "prompt": "A cinematic close-up of Daniel listening to the voice note in the hospital room. Tears roll naturally down his face as he closes his eyes. He presses the smartphone gently against his chest. Soft daylight and muted blue-gray tones, detailed realistic skin, restrained emotional acting, shallow depth of field, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 420,
+      "subtitle": {
+        "text": "Then she continued. 'I don't need a perfect future, Daniel. I just wanted more ordinary days with you. If you ever listen to this, please don't blame yourself. I only wish we had one more evening together.' I broke down before the recording ended.",
+        "startFrame": 0,
+        "endFrame": 420
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_22_a3ccb6fd.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 13.972,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:01:12.703Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_23",
+      "number": 23,
+      "title": "All the Little Things",
+      "originalNarration": "I returned to our apartment. Her coffee cup was still on the shelf. Her favorite book was beside the bed. A little note was still attached to the refrigerator. I finally understood how much love had been waiting for me in that quiet home.",
+      "narration": "I returned to our apartment. Her coffee cup was still on the shelf. Her favorite book was beside the bed. A little note was still attached to the refrigerator. I finally understood how much love had been waiting for me in that quiet home.",
+      "emotion": "nostalgic, sorrowful",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_23_0fc76fc8.png",
+        "prompt": "A cinematic widescreen shot of Daniel standing alone inside the familiar apartment. An untouched coffee cup rests on a shelf, a book lies beside the bed, and small handwritten notes remain attached to the refrigerator. Daniel gently touches one of Emma's belongings. Dusty golden sunlight enters through the window, contrasting with the empty room. Photorealistic, emotional drama, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 393,
+      "subtitle": {
+        "text": "I returned to our apartment. Her coffee cup was still on the shelf. Her favorite book was beside the bed. A little note was still attached to the refrigerator. I finally understood how much love had been waiting for me in that quiet home.",
+        "startFrame": 0,
+        "endFrame": 393
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_23_889f6129.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 13.091,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:01:37.648Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_24",
+      "number": 24,
+      "title": "The River",
+      "originalNarration": "I went back to the river where we had promised to stay together. I sat on the same bench and listened to her voice again. For the first time, I wished I could go back, not to change everything, but simply to hold her hand a little longer.",
+      "narration": "I went back to the river where we had promised to stay together. I sat on the same bench and listened to her voice again. For the first time, I wished I could go back, not to change everything, but simply to hold her hand a little longer.",
+      "emotion": "deeply nostalgic, sorrowful",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_24_24f0a958.png",
+        "prompt": "A cinematic widescreen sunset shot of Daniel sitting alone on the same wooden riverside bench where he once sat with Emma. He holds a smartphone and looks across the calm river. The sky is muted orange and gold, with gentle reflections on the water. Empty space beside him emphasizes her absence. Photorealistic romantic drama, soft natural light, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr | Emma, A 27-year-old woman with a gentle oval face, fair warm skin, expressive hazel-brown eyes, and long chestnut-brown hair with soft natural wav, Usually wears a cream-colored coat, soft pastel sweaters, simple blue jeans, and a delicate silver n, Hazel-brown eyes, long chestnut hair, warm smile, and a small silver star pendan. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photoreali.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 378,
+      "subtitle": {
+        "text": "I went back to the river where we had promised to stay together. I sat on the same bench and listened to her voice again. For the first time, I wished I could go back, not to change everything, but simply to hold her hand a little longer.",
+        "startFrame": 0,
+        "endFrame": 378
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_24_9e8df8ba.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 12.587,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:02:01.623Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_25",
+      "number": 25,
+      "title": "Learning to Live With It",
+      "originalNarration": "Months passed, but I never deleted that voice note. Some nights, I still listened to it. I stopped waiting for the phone to ring. I learned that grief does not disappear when someone leaves. It simply teaches your heart how to carry an empty space.",
+      "narration": "Months passed, but I never deleted that voice note. Some nights, I still listened to it. I stopped waiting for the phone to ring. I learned that grief does not disappear when someone leaves. It simply teaches your heart how to carry an empty space.",
+      "emotion": "reflective, bittersweet",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_25_222416eb.png",
+        "prompt": "A cinematic widescreen early morning scene of Daniel sitting beside the window of his apartment months later. He looks calmer but still carries sadness. His smartphone rests in his hand. Soft morning sunlight touches his face while the city wakes outside. A peaceful, mature expression, realistic textures, subtle warm and cool color balance, photorealistic, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high de.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 427,
+      "subtitle": {
+        "text": "Months passed, but I never deleted that voice note. Some nights, I still listened to it. I stopped waiting for the phone to ring. I learned that grief does not disappear when someone leaves. It simply teaches your heart how to carry an empty space.",
+        "startFrame": 0,
+        "endFrame": 427
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_25_f8c16d25.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 14.226,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:02:36.158Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_26",
+      "number": 26,
+      "title": "The Promise I Keep",
+      "originalNarration": "I still visit that little coffee shop sometimes. I sit by the window and order two coffees, even though I drink only one. Maybe it sounds foolish. But some places become part of your heart, and leaving them feels like losing someone all over again.",
+      "narration": "I still visit that little coffee shop sometimes. I sit by the window and order two coffees, even though I drink only one. Maybe it sounds foolish. But some places become part of your heart, and leaving them feels like losing someone all over again.",
+      "emotion": "tender, bittersweet",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_26_2fcfda69.png",
+        "prompt": "A cinematic widescreen shot inside the original cozy coffee shop. Daniel sits alone beside the same rain-covered window. Two ceramic coffee cups rest on the wooden table, one untouched. He looks toward the empty seat opposite him with a small peaceful smile. Warm amber light, gentle rain outside, nostalgic cinematic color grading, photorealistic, 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture, coherent anatomy, high detail.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 427,
+      "subtitle": {
+        "text": "I still visit that little coffee shop sometimes. I sit by the window and order two coffees, even though I drink only one. Maybe it sounds foolish. But some places become part of your heart, and leaving them feels like losing someone all over again.",
+        "startFrame": 0,
+        "endFrame": 427
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_26_1f5cf643.wav",
+        "voice": "am_adam",
+        "speed": 1,
+        "durationSeconds": 14.204,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:03:08.788Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    },
+    {
+      "id": "scene_27",
+      "number": 27,
+      "title": "The Last Voice Note",
+      "originalNarration": "If I could tell Emma one thing today, it would be this: I heard you. I finally understood. I am sorry I kept promising you tomorrow when all you ever wanted was a little more of me today. Some voices never leave us. They just become memories we carry forever.",
+      "narration": "If I could tell Emma one thing today, it would be this: I heard you. I finally understood. I am sorry I kept promising you tomorrow when all you ever wanted was a little more of me today. Some voices never leave us. They just become memories we carry forever.",
+      "emotion": "peaceful, heartbreaking, meaningful",
+      "image": {
+        "path": "fw-export/project_e11dd228-29c/frames/scene_27_653a1cae.png",
+        "prompt": "A beautiful cinematic final widescreen image of Daniel standing beside the river at sunrise. He looks toward the golden horizon with a peaceful but emotional expression. The smartphone rests gently in his hand. Soft warm sunlight illuminates his face and the calm water. The composition feels quiet, mature, and emotionally satisfying, premium photorealistic romantic drama, widescreen 16:9. . Character consistency: Daniel, A 29-year-old man with a handsome but natural-looking face, warm medium skin tone, expressive deep brown eyes, short slightly wavy dark brow, Usually wears a charcoal-gray jacket over a simple black or cream shirt, dark jeans, and a classic w, Deep brown eyes, slightly wavy dark hair, subtle stubble, and a simple silver wr. Same person across frames, identical face and outfit. Use warm golden sunlight and soft natural lighting for happy memories. Use cool blue-gray lighting for loneliness, separation, and heartbreak. Use gentle warm light in the final scene to symbolize acceptance and remembrance. , palette: Warm golden amber, muted sunset orange, soft cream, rainy midnight blue, charcoal gray, faded brown, subtle desaturated green. Widescreen 16:9 cinematic compositions, intimate facial close-ups, wide environmental establishing shots, over-the-shoulder shots, shallow depth of field, slow camera push-ins, subtle tracking shots, emotionally expressive framing, cinematic negative space, horizontal 16:9 widescreen composition, full-bleed frame. Cinematic photorealism, emotionally expressive characters, realistic environments, high-detail textures, natural human expressions, premium romantic drama film aesthetic. Maintain strict visual consistency for Daniel and Emma throughout all scenes. photorealistic, cinematic still, sharp focus, natural skin texture.",
+        "width": 1280,
+        "height": 720,
+        "status": "generated"
+      },
+      "durationInFrames": 456,
+      "subtitle": {
+        "text": "If I could tell Emma one thing today, it would be this: I heard you. I finally understood. I am sorry I kept promising you tomorrow when all you ever wanted was a little more of me today. Some voices never leave us. They just become memories we carry forever.",
+        "startFrame": 0,
+        "endFrame": 456
+      },
+      "audio": {
+        "path": "fw-export/project_e11dd228-29c/audio/scene_27_da1d9177.wav",
+        "voice": "am_adam",
+        "speed": 0.92,
+        "durationSeconds": 15.179,
+        "status": "generated",
+        "generatedAt": "2026-11-23T15:03:47.111Z"
+      },
+      "soundEffects": [],
+      "validationStatus": "ok"
+    }
+  ],
+  "musicVolume": 0.22
+}
